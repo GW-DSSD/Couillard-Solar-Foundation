@@ -4,6 +4,10 @@ This is the official git repository for DSSD GW's consulting for the Couillard S
 
 Team Members: Anushka Vuppala,Amit Shendge,Apoorva Reddy Bagepalli,Emily Richardt, Seva Soni
 
+![Alt text]([image link](https://raw.githubusercontent.com/GW-DSSD/Couillard-Solar-Foundation/main/Project%20Info/DSSD%20GWU%20Logo.png)https://raw.githubusercontent.com/GW-DSSD/Couillard-Solar-Foundation/main/Project%20Info/DSSD%20GWU%20Logo.png)
+
+
+
 
 
 
