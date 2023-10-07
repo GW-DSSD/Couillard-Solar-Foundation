@@ -2,16 +2,8 @@
 #
 This is the official git repository for DSSD GW's consulting for the Couillard Solar Foundation, based in Wisconsin. Pranav Chandaliya is the project lead. 
 
-Team Members:
+Team Members: Anushka Vuppala,Amit Shendge,Apoorva Reddy Bagepalli,Emily Richardt, Seva Soni
 
-Anushka Vuppala
 
-Amit Shendge
-
-Apoorva Reddy Bagepalli
-
-Emily Richardt
-
-Seva Soni
 
 
