@@ -6,6 +6,11 @@ Team Members: Anushka Vuppala,Amit Shendge,Apoorva Reddy Bagepalli,Emily Richard
 
 ![DSSD GWU](https://raw.githubusercontent.com/GW-DSSD/Couillard-Solar-Foundation/main/Project%20Info/DSSD%20GWU%20Logo.png)
 
+![Client Info](https://raw.githubusercontent.com/GW-DSSD/Couillard-Solar-Foundation/main/Project%20Info/client_info.png)
+
+![Problem Statement](https://raw.githubusercontent.com/GW-DSSD/Couillard-Solar-Foundation/main/Project%20Info/CSF_Prob_Statement.png)
+
+
 
 
 
