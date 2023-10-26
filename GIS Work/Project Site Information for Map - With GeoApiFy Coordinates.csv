@@ -1,0 +1,192 @@
+,Unique ID,Status Code,Recipient,Site Address,City,Type,Size of Array (in kW),Value of grant,Value of Project,Installer,Commissioning Date,Latitude,Longitude,Incomplete Address
+0,C-001,C,Beth Israel Center,"1406 Mound St, Madison,  53711",Madison,Faith,62.0,3000.0,135835.0,SunVest/Solar Connections,2018-02-23 00:00:00,43.065392306122455,-89.40972742857143,FALSE
+1,C-002,C,Pilgrim United Church of Christ,"535 Stow Street, Fond du Lac, WI  54935",Fond du Lac,Faith,10.5,5200.0,25994.0,Energize,2018-04-27 00:00:00,43.78772328947368,-88.42626455263158,FALSE
+2,C-003,C,Liberation Park (Kevala),"17483 Kendall Ave, Norwalk 54648",Norwalk,Faith,12.0,6200.0,31020.0,Ethos,2018-05-02 00:00:00,43.84448,-90.642159,FALSE
+3,C-004,C,North Pointe United Methodist Church,"3825 Erie St, Racine, 53402",Racine,Faith,19.8,9881.0,49405.0,Arch,2018-05-02 00:00:00,42.767611474747476,-87.78688193939394,FALSE
+4,C-005,C,Midwest Renewable Energy Association,"7558 Deer Road, Custer, WI, 54423",Custer,Adult Education,20.0,10000.0,65000.0,MREA - Trainers,2018-06-29 00:00:00,44.507916762464234,-89.40796229180306,FALSE
+5,C-006,C,Escuela Verde (TransCenter),"3628 W Pierce St, Milwaukee, WI 53215",Milwaukee,Youth Services,20.3,10000.0,52374.0,SunVest,2018-06-29 00:00:00,43.0237645,-87.9597784,FALSE
+6,C-007,C,Catholic Youth Expeditions,"3035 Obrien Rd, Baileys Harbor, WI  54202",Baileys Harbor,Youth Services,20.3,10000.0,54400.0,Eland Electric,2018-07-25 00:00:00,45.025532,-87.16864,FALSE
+7,C-008,C,Project Home,"3841 Kipp St, Madison, 53718",Madison,Poverty alleviation,8.2,4000.0,24751.0,Convergence/Re-Volv,2018-08-15 00:00:00,43.043318526773184,-89.28494647204991,FALSE
+8,C-009,C,First Congregational Church in Oshkosh,"137 Algoma Blvd, Oshkosh, 54901",Oshkosh,Faith,19.3,10000.0,59750.0,Northwind,2018-08-22 00:00:00,44.01847816216216,-88.53912102702702,FALSE
+9,C-010,C,United Unitarian Universalist Church,"506 N. Washington Ave, Waukesha,  53188",Waukesha,Faith,10.1,5017.0,25087.0,Arch,2018-08-27 00:00:00,43.01918622448979,-88.24502697959184,FALSE
+10,C-011,C,Friends of Camp Anokijig Inc.,"W5639 Anokijig Ln, Plymouth, WI 53073",Plymouth,Youth Services,3.0,2000.0,12529.0,Arch,2018-08-30 00:00:00,43.80972215,-87.97051385778862,FALSE
+11,C-012,C,"Sinsinawa Dominicans, Inc","585 County Road Z , Sinsinawa, 53824",Sinsinawa,Faith,250.0,20000.0,410764.0,Eagle Point Solar,2018-11-06 00:00:00,42.52494370254746,-90.54023683225354,FALSE
+12,C-013,C,Veterans Outreach of Wisconsin,"1624 Yout St, Racine, 53404",Racine,Veterans,19.8,10000.0,52375.0,Arch,2018-11-06 00:00:00,42.74583535294118,-87.8008881764706,FALSE
+13,C-014,C,Heckrodt Wetland Reserve,"1305 Plank Rd., Menasha, WI 54952",Menasha,Conservation,19.6,10000.0,55750.0,Eland Electric Corporation,2018-08-15 00:00:00,44.21163,-88.419843,FALSE
+14,C-015,C,Memorial United Church of Christ,"5705 Lacy Road, Fitchburg, WI 53711",Fitchburg,Faith,20.0,10000.0,50000.0,Midwest Solar Power,2018-08-17 00:00:00,43.00121142699234,-89.4408892298066,FALSE
+15,C-016,C,Community Homestead Incorporated,"501 280th St, Osceola, WI 54020",Osceola,Human Services,19.2,9000.0,45000.0,Legacy Solar,2018-10-11 00:00:00,45.282256,-92.733331,FALSE
+16,C-017,C,VFW Post 8483,"5737 County Highway CV, Madison, WI 53704",Madison,Veterans,40.3,10000.0,81850.0,Midwest Solar Power,2019-01-04 00:00:00,43.159635989774046,-89.3364627574106,FALSE
+17,C-018,C,Pleasant Ridge Waldorf School,"413 E. Court Street, Viroqua, WI 54664",Viroqua,Education,10.5,5721.0,28605.0,Ethos Green Power LLC,2019-01-28 00:00:00,43.55617471428572,-90.88530040816326,FALSE
+18,C-019,C,Walnut Way Conservation Corp.,"2240 N 17th St., Milwaukee, WI 53205",Milwaukee,Poverty alleviation,7.5,4500.0,22500.0,Arch Electric,2019-03-08 00:00:00,43.059668670978226,-87.9338021416867,FALSE
+19,C-020,C,St. Bridget's Catholic Church,"211 E. Division Street, River Falls, WI 54022",River Falls,Faith,23.0,10000.0,88912.0,Energy Concepts,2019-08-29 00:00:00,44.862524984921805,-92.62226381687093,FALSE
+20,C-021,C,First Unitarian Society of Madison,"900 University Bay Drive, Madison, WI 53705",Madison,Faith,83.0,20000.0,169495.0,Full Spectrum Solar,2019-11-25 00:00:00,43.07573055,-89.43475245392398,FALSE
+21,C-022,C,Alice's Garden,"2136 N 21st St., Milwaukee, WI 53205",Milwaukee,Food,4.0,9000.0,45000.0,Arch Electric,2021-08-20 00:00:00,43.0581907406341,-87.93873413088376,FALSE
+22,C-039,C,Attic Angel Place,8301 Old Sauk Rd.,Middleton,Housing,146.25,20000.0,264712.5,SunVest,2019-08-06 00:00:00,43.075146439024394,-89.51455022256098,TRUE
+23,C-032,C,Bethel Horizons - Arts Center,4651 Co Rd ZZ,Dodgeville,Youth Services,23.44,10000.0,51461.65,WES Engineering,2019-04-01 00:00:00,39.6354358,-102.8215285,TRUE
+24,C-033,C,Bethel Horizons - Prairie Center,4651 Co Rd ZZ,Dodgeville,Youth Services,22.0,10000.0,52713.5,WES Engineering,2019-04-01 00:00:00,39.6354358,-102.8215285,TRUE
+25,C-044,C,Blackhawk Evangelical ,"5935 Astor Dr., Fitchburg, WI 53711",Middleton,Faith,100.0,20000.0,190000.0,H and H,2019-10-18 00:00:00,43.00699894627579,-89.45596424786103,FALSE
+26,C-034,C,Christ Lutheran Church,237 Daley Street,Spring Green,Faith,18.36,8500.0,42807.68,WES Engineering,2019-04-01 00:00:00,43.83547771111111,-80.84729517777778,TRUE
+27,C-038,C,Housing Authority of Milwaukee,6236 W. Birch Street,Milwaukee,Housing,3.96,3028.0,15140.0,Arch Electric,2019-06-27 00:00:00,39.9954894,-75.1365236,TRUE
+28,C-024,C,Humane Society of Burnett Co,7410 County Rd D,Webster,Animal Care,19.72,8112.0,54080.0,Carlson Electric,2018-12-21 00:00:00,37.688112,-99.114752,TRUE
+29,C-043,C,Juda School District, N2385 Spring St,Juda,School,4.5,2704.0,13520.0,Synergy ,2019-10-03 00:00:00,42.590638,-89.5103266,TRUE
+30,C-037,C,Lawton Memorial Library,118 N. Bird St.,La Farge,Library,11.2,6140.0,30702.0,Ethos Green Power,2019-05-20 00:00:00,40.597828346938776,-75.49592538775511,TRUE
+31,C-036,C,Literacy Network,701 Dane Street,Madison,Adult Education,19.04,8900.0,44738.46,WES Engineering,2019-05-16 00:00:00,43.043002,-89.393236,TRUE
+32,C-023,C,Madison Audobon Society,"W7480 Prairie Lane, Lake Mills, WI",Lake Mills,Conservation,7.5,4425.0,22125.0,Midwest Solar,2018-12-12 00:00:00,43.0798032,-88.9125723,TRUE
+33,C-045,C,NeighborWorks Green Bay,437 S. Jackson Street,Green Bay,Housing,64.68,29624.0,148117.0,Arch Electric,2019-11-08 00:00:00,42.9853837,-78.1800319,TRUE
+34,C-041,C,Northland Lutheran High School,2107 Tower Road,Kronenwetter,School,51.34,10000.0,145549.0,Carlson Electric,2019-08-29 00:00:00,35.3111623,-101.8358551,TRUE
+35,C-031,C,Oregon Ice Arena,100 N Perry Pkwy,Oregon,Youth Services,190.4,20000.0,381000.0,Full Spectrum Solar,2019-02-07 00:00:00,42.929193,-89.373504,TRUE
+36,C-047,C,"Primates, Inc","W8782 County Rd M, Westfield, WI 53964",Westfield,Animal Care,14.28,7951.0,38903.0,Convergence,2020-10-15 00:00:00,43.866539,-89.495674,FALSE
+37,C-046,C,Redeemer Lutheran,"631 N 19th St, Milwaukee, WI 53233",Milwaukee,Faith,26.18,10000.0,68068.0,SunBadger Solar,2019-11-13 00:00:00,43.038205,-87.937064,FALSE
+38,C-025,C,SCHA - Exeland Senior Housing,946 N Washington Ave,Exeland,Housing,12.24,5826.0,29131.2,Carlson Electric,2019-01-02 00:00:00,35.5350088,-98.6940945,TRUE
+39,C-026,C,SCHA-Gibson,5888-5890 N Gibson Ave,Stone Lake,Housing,10.88,5178.0,25894.4,Carlson Electric,2019-01-02 00:00:00,45.8485501,-91.5392199,TRUE
+40,C-027,C,SCHA-Plainview Village,1050 and 1054 Vitcenda Lane,Exeland,Housing,21.08,9710.0,48552.0,Carlson Electric,2019-01-02 00:00:00,45.673531,-91.245747,TRUE
+41,C-028,C,SCHA-Radmore Village,3593 N Highland Ave,Radisson,Housing,33.32,10000.0,81183.0,Carlson Electric,2019-01-02 00:00:00,39.190914,-94.5595427,TRUE
+42,C-029,C,SCHA-Vista Village,15782 Illinois Ave,Hayward,Housing,46.24,10000.0,110051.2,Carlson Electric,2019-01-02 00:00:00,33.89056934343434,-118.16526582828283,TRUE
+43,C-030,C,SCHA-Winmore,6530 West McClaine Ave,Winter,Housing,29.24,10000.0,69591.2,Carlson Electric,2019-01-02 00:00:00,39.722878,-105.069203,TRUE
+44,C-040,C,Sisters of St. Francis,3110 Nicolet Drive,Green Bay,Faith,98.0,20000.0,228900.0,Eland Electric,2019-08-28 00:00:00,44.557468568527455,-87.90885478802983,TRUE
+45,C-048,C,Solon Springs School District,8993 E. Baldwin Ave,Solon Springs,School,99.9,20000.0,249000.0,Carlson Electric,2020-10-15 00:00:00,46.34564820365587,-91.83073053520097,TRUE
+46,C-042,C,St. Dennis Congregation,505 Dempsey Rd ,Madison,Faith,23.8,10000.0,52273.0,Sunvest,2019-09-06 00:00:00,43.090160098523015,-89.31627574934132,TRUE
+47,C-050,C,St. John's Lutheran Church,625 E. Netherwood Street,Oregon,Faith,29.6,10000.0,64995.0,Full Spectrum Solar,2020-11-28 00:00:00,42.93592465455906,-89.37222958532799,TRUE
+48,C-049,C,Washburn Elementary School, 305 West 4th Street,Washburn,School,120.0,20000.0,236693.0,Eagle Point Solar,2020-10-15 00:00:00,37.557326,-97.354469,TRUE
+49,C-035,C,Wisconsin Conference UCC,4459 Gray Road,Deforest,Faith,19.95,10000.0,50968.0,Arch Electric,2019-05-02 00:00:00,33.86392229501104,-84.76861905716504,TRUE
+50,P-051,C,Milwaukee Habitat for Humanity,3726 N Booth Street,Milwaukee,Housing,53.25,11981.25,141612.0,Energize LLC,2019-12-04 00:00:00,43.0845782,-87.9035949,TRUE
+51,P-052,C,Aspirus - Family Housing Project ,2801 Westhill Drive,Wausau ,Housing,19.53,8786.25,42000.0,North Wind Renewable Energy,2019-11-07 00:00:00,30.246107,-97.783196,TRUE
+52,P-053,C,Victory Garden Initiative,249 E Concordia Ave,Milwaukee,Poverty Alleviation,8.8,3996.0000000000005,12405.0,Convergence Energy,2020-01-01 00:00:00,43.0783394,-87.907855,TRUE
+53,C-054,C,St. Thomas Aquinas,"602 Everglade Dr, Madison, WI 53717",Madison,Faith,24.12,10000.0,50148.0,SunVest,2020-03-04 00:00:00,43.073695094175896,-89.4989679898927,FALSE
+54,P-055,C,YMCA of the Fox Cities - Camp Nan A Bo Sho,18369 Okonto Ln.,Lakewood,Youth Services,12.425,5827.5,27367.0,Appleton Solar,2020-05-06 00:00:00,45.34400997820828,-88.43994421684155,TRUE
+55,P-056,C,"Nourish Farms, Inc.","100 Alfred Miley Ave, Sheboygan Falls, WI 53085",Sheboygan Falls,Food,9.94,4144.0,34000.0,Arch Electric,2020-04-30 00:00:00,43.734497,-87.802554,FALSE
+56,P-057,C,Sawyer County Non Profit Housing Development (SCNPHD),10685 & 10695 Reinke Street,Hayward,Housing,67.45,24975.0,181000.0,Carlson Electric,2020-05-13 00:00:00,53.748776272,20.501402591999998,TRUE
+57,P-058,C,Sawyer County Non Profit Housing Development (SCNPHD),3660 & 3664 N Highland,Radisson,Housing,17.04,7992.000000000001,45800.0,Carlson Electric,2020-05-13 00:00:00,51.04155385,5.570710186743595,TRUE
+58,P-059,C,Sawyer County Non Profit Housing Development (SCNPHD),5105 and 5109 N Crawford,Winter,Housing,31.95,14985.0,85946.0,Carlson Electric,2020-05-13 00:00:00,35.231055,-81.007049,TRUE
+59,P-060,C,University of Wisconsin-Madison Arboretum,1207 Seminole Highway,Madison,Conservation,25.16,11322.0,90414.0,SunPeak,2020-10-20 00:00:00,43.03964001476243,-89.44375523690685,TRUE
+60,P-061,C,Madison Audubon Society,W7503 Kampen Rd,Arlington,Conservation,8.5,3996.0000000000005,26785.0,Midwest Solar,2020-11-15 00:00:00,43.321334,-89.373086,TRUE
+61,P-063,C,Menīkānaehkem Inc.,N8866 County Rd G,Gresham,Youth Services,11.84,5328.0,25450.0,Eland Electric,2020-04-01 00:00:00,37.383303,-99.894563,TRUE
+62,P-064,C,Zwingli United Church of Christ,1693 Washington Street,Verona,Faith,6.0,2830.5,15000.0,Eagle Point Solar,2020-05-01 00:00:00,37.280158,-98.0246,TRUE
+63,P-065,C,CAP Services,"2900 Hoover Road, Suite A",Stevens Point,Poverty Alleviation,13.32,5994.0,28300.0,North Wind,2020-06-01 00:00:00,41.626481740861436,-89.68948045904675,TRUE
+64,P-066,C,Humane Society of Jefferson County,w6127 Kiesling rd,Jefferson,Animal Shelter,62.1,12487.5,127600.0,WES Engineering,2020-08-01 00:00:00,42.969813,-88.83761,TRUE
+65,P-067,C,Jackson County Animal Shelter,416 County Road R,Black River Falls,Animal Shelter,19.98,8991.0,46000.0,Solar Connection,2020-09-01 00:00:00,37.218142,-99.788673,TRUE
+66,P-068,C,Boys & Girls Clubs of Greater La Crosse,1331 Clinton Street,La Crosse,Youth Services,75.48,24975.0,150000.0,Solar Connection,2020-09-01 00:00:00,42.8744076,-78.8265324,TRUE
+67,P-069,C,Habitat for Humanity La Crosse,3181 Berlin Drive,Onalaska,Poverty Alleviation,53.28,12487.5,112900.0,Solar Connection,2020-09-01 00:00:00,32.35123722561775,-90.13784137650802,TRUE
+68,P-070,C,Camp Amnicon,8450 E Camp Amnicon Rd,South Range,Youth Services,19.24,8658.0,29750.0,Wholesale Solar,2020-11-01 00:00:00,46.684191944921174,-91.87207297611403,TRUE
+69,P-071,C,"Kathy's House, Inc.",9101 W Doyne Ave,Wauwautosa,Housing,75.0,24975.0,146250.0,Arch Electric,2020-12-01 00:00:00,43.03931,-88.026289,TRUE
+70,P-073,C,"Movin' Out, Inc.",951 Acewood Blvd,Madison,Housing,124.0,24975.0,203795.0,Full Spectrum Solar,2021-09-01 00:00:00,43.08556900080774,-89.30298394918448,TRUE
+71,P-074,C,"Aptiv, Inc.",3000 South Avenue,La Crosse,Adult Education,55.5,12487.5,116000.0,Solar Connections,2020-10-08 00:00:00,37.638298,-97.316581,TRUE
+72,P-076,C,Covenant Lutheran Church,1525 N Van Buren St,Stoughton,Faith,85.0,24975.0,166500.0,Synergy Renewables,2020-11-10 00:00:00,43.04971561304981,-87.90355588231351,TRUE
+73,P-077,C,Dodge County Housing Authority,905 Division St.,Horicon,Housing,104.2,24975.0,266859.0,Midwest Solar,,39.7558142,-86.1825478,TRUE
+74,P-078,C,Grace Congregational United Church of Christ,2801 Garfield Street,Two Rivers,Faith,20.0,11155.5,83749.0,Arch Electric,2020-11-13 00:00:00,39.75666885,-104.94443143763193,TRUE
+75,P-079,C,Green Bay Area Public Schools Education Foundation (on behalf of Aldo Leopold Community School),622 Eliza St,Green Bay,School,13.69,6160.500000000001,16100.0,Eland Electric,2021-06-01 00:00:00,29.951004081632654,-90.0496604489796,TRUE
+76,P-080,C,Lutheran Church of the Living Christ,110 N Gammon Road,Madison,Faith,49.21,12487.5,63825.0,SunBadger Solar,2021-03-01 00:00:00,43.07029376767677,-89.50265983838383,TRUE
+77,P-081,C,Social Development Foundation,1730 W. North Avenue,Milwaukee,Poverty alleviation,111.0,24975.0,210350.0,Convergence Energy,2020-12-13 00:00:00,37.295765,-97.77028,TRUE
+78,P-082,C,Washington County Humane Society,3650 WI-60 Trunk,Slinger,Animal Shelter,49.6,12487.5,103068.8,Current Electric,2020-10-30 00:00:00,43.3218735,-88.0027179,TRUE
+79,C-090,C,"The BRICK Ministries, Inc.",420 Ellis Avenue,Ashland,Poverty alleviation,11.375,6399.0,31991.0,Jolma Electric,2021-02-23 00:00:00,42.29008105,-89.06799427460362,TRUE
+80,C-092,C,"Friends of the Albertson Memorial Library, Inc.",200 North Water St,Albany,Library,28.8,10000.0,53750.0,Full Spectrum Solar,2021-05-24 00:00:00,37.687927,-97.339517,TRUE
+81,C-093,C,Ezekiel Lutheran Church,202 S 2nd St,River Falls,Faith,51.6,10000.0,124127.0,Energy Concepts,2021-10-01 00:00:00,37.804558,-100.345523,TRUE
+82,P-083,C,Friends of the Sauk County Fairgrounds,PO Box 303,Baraboo,Community Facility,19.24,8658.0,40398.0,All Sky Energy,2021-05-01 00:00:00,37.803038,-93.98873,FALSE
+83,P-086,C,Plymouth Congregational UCC,2401 Atwood Ave,Madison,Faith,17.02,7659.0,41833.0,Arch Electric,2021-11-01 00:00:00,43.093682,-89.34681,TRUE
+84,P-087,C,Just One More Ministry,4180 N Lydell Street,Glendale,Poverty alleviation,28.86,12487.5,53336.0,Arch Electric,2021-04-01 00:00:00,43.0363934,-76.1784785,TRUE
+85,P-089,C,"Couleecap, Inc.",201 Melby Street,Westby,Poverty alleviation,63.0,12487.5,94958.0,Ethos Green Power,2021-11-01 00:00:00,43.654326,-90.859025,TRUE
+86,P-091,C,Community Clothes Closet,1465B Opportunity Way,Menasha,Poverty alleviation,24.42,10989.0,40410.0,Eland Electric,2021-12-01 00:00:00,44.227127,-88.414944,TRUE
+87,P-094,C,All Saints Lutheran Church,2951 Chapel Valley Road ,Fitchburg,Faith,20.7,9324.0,45420.0,Midwest Solar Power,2021-06-01 00:00:00,43.015161,-89.433273,TRUE
+88,P-095,C,Milwaukee Habitat for Humanity ReStore,4150 S 108th St,Greenfield,Poverty alleviation,49.95,12487.5,139833.0,Energize,2021-12-01 00:00:00,42.9685666,-88.0469818726365,TRUE
+89,P-096,C,"Habitat for Humanity of Dane County, Inc",3101 Latham Drive,Madison,Poverty alleviation,30.0,12487.5,51000.0,Madison Solar Consulting,2021-07-21 00:00:00,43.030499,-89.402848,TRUE
+90,P-097,C,Walnut Way Conservation Corps,2240 North 17th Street,Milwaukee,Human Services,10.0,4662.0,51000.0,Arch Electric,2022-02-15 00:00:00,39.98759057142857,-75.16099567346939,TRUE
+91,P-098,C,Boys & Girls Club of Dane County,"4619 Jenewein Rd, Fitchburg, Wl 53711.",Fitchburg,Youth Services,85.8,24975.0,176500.0,WES Engineering,2021-11-01 00:00:00,43.02904585138374,-89.45670263547615,TRUE
+92,P-099,C,Yerkes Future Foundation,373 W Geneva St,Williams Bay,Community Facility,60.0,12487.5,165000.0,Adams Electric,2021-12-01 00:00:00,42.57466297131967,-88.55699988039363,TRUE
+93,C-100,C,North Central Conservancy Trust,301 W. Cedar Street,Stevens Point,Conservation,3.4,2676.0,13380.0,North Wind,2021-06-07 00:00:00,37.2048315,-99.4866963,TRUE
+94,C-101,C,American Birkebeiner,PO Box 911,Hayward,Athletics,6.12,4325.0,21624.4,Tru North Solar,2021-10-01 00:00:00,37.803038,-93.98873,FALSE
+95,C-102,C,First Congregational Church-United Church of Christ,311 2nd St.,Wisconsin Rapids,Faith,42.5,5000.0,104700.0,North Wind,2021-11-17 00:00:00,36.118703,-100.029034,TRUE
+96,C-103,C,"First Congregational United Church of Christ Madison, WI",1609 University Ave,Madison,Faith,61.2,5000.0,134000.0,Full Spectrum,2022-03-02 00:00:00,35.8707284,-97.4448427,TRUE
+97,C-104,C,Visit Sheboygan STEAM,826 S 8th Street,Sheboygan ,Community Facility,19.5,5000.0,46137.0,Arch Electric,2023-02-01 00:00:00,35.853429,-97.9352167,TRUE
+98,C-105,C,Madison Monthly Meeting (Quakers),1704 Roberts Court,Madison,Faith,20.0,5000.0,39000.0,Full Spectrum,2022-11-01 00:00:00,43.06651679591837,-89.41587018367346,TRUE
+99,P-109,C,Ashland Area Development Corporation,422 3rd St. West,Ashland,Human Services,120.0,24975.0,166895.0,Jolma Electric,2021-12-01 00:00:00,38.045299,-97.351988,TRUE
+100,P-110,C,Neshkoro Area Fire Protection District,W690 County Road E,Neshkoro,Public Safety,14.08,3163.5,39900.0,Ally Sky Energy,2021-11-17 00:00:00,37.673596,-99.114764,TRUE
+101,P-111,C,American Birkebeiner,PO Box 911,Hayward,Athletics,24.9,5661.0,49880.0,Tru North Solar,2021-11-01 00:00:00,37.803038,-93.98873,FALSE
+102,P-113,C,Friends of the Pavilion (Formerly known as Friends of the Egg Harbor Library),7845 Church Street,Egg Harbor,Library,20.0,4495.5,53760.0,Eland Electric,2021-08-01 00:00:00,37.5268455,-99.7595963,TRUE
+103,P-114,C,Woodland Boys & Girls Club Inc.,W6719 Water St.,Neopit,Youth Services,20.72,4662.0,48100.0,Eland Electric,2022-03-01 00:00:00,36.434699,-99.203735,TRUE
+104,P-116,C,Family & Children's Center (Viroqua),1321 N. Main St.,Viroqua,Poverty alleviation,82.0,18481.5,142684.0,Ethos Green Energy,2021-11-01 00:00:00,37.667091,-97.684021,TRUE
+105,P-117,C,"Sheboygan Senior Community, Inc",3505 County Rd Y,Sheboygan ,Housing,198.0,24975.0,658000.0,Arch Electric,2023-02-01 00:00:00,36.157643,-100.086387,TRUE
+106,C-119,A,Commonwealth Development,"2009 Leland, Madison, WI 53711",Madison,Housing,17.3,5000.0,45000.0,undecided,,43.031062,-89.47946,FALSE
+107,C-121,C,ECHO (Everyone Cooperating To Help Others),"65 S High Street, Janesville, WI 53548",Janesville,Poverty alleviation,63.45,10000.0,155452.0,SunBadger,2022-08-17 00:00:00,42.67968902173913,-89.02702913043478,FALSE
+108,P-122,C,Midvale Community Lutheran Church ,"4329 Tokay Boulevard, Madison WI 53711 ",Madison,Faith,7.2,1822.5,23995.0,Full Spectrum,2023-03-19 00:00:00,43.05343497166993,-89.44862989002793,FALSE
+109,P-124,C,Access Community Health Centers ,"2202 South Park Street, Madison, WI 53713",Madison,Health Care,52.1,11822.0,96320.0,Full Spectrum,2023-03-01 00:00:00,43.04161830240766,-89.39414186767964,FALSE
+110,P-125,C,Access Community Health Centers,"1270 W. Main, Sun Prairie, WI, 53590 ",Sun Prairie,Health Care,48.1,10823.0,97000.0,Full Spectrum,2023-03-01 00:00:00,43.179993,-89.235282,FALSE
+111,P-126,C,Access Community Health Centers,"3434 E. Washington Ave., Madison, WI, 53704",Madison,Health Care,56.07,12488.0,101305.0,Full Spectrum,2023-03-01 00:00:00,43.11364625698392,-89.32985337598714,FALSE
+112,P-127,C,Madison Circus Space,"2082 Winnebago St, Madison, WI 53704",Madison,Recreation,27.3,6691.200000000001,64318.0,Full Spectrum,2022-06-03 00:00:00,43.09305446690622,-89.35450429196902,FALSE
+113,P-128,C,"Northern Lights Services, Inc","706 Bratley Dr  Washburn, WI 54891",Washburn,Health Care,118.03,24975.0,177420.0,Jolma Electric,2022-12-01 00:00:00,46.681285700000004,-90.88366218060992,FALSE
+114,P-129,C,Dunn County Historical Society,"1820 John Russell Road, Menomonie, Wisconsin 54751",Menomonie,Community Facility,50.32,12953.2,155492.0,Next Energy Solutions,2022-08-01 00:00:00,44.8753941,-91.9200286,FALSE
+115,P-130,C,Mt Zion Baptist Church (MTZ),"2019 Fisher Street; Madison, WI 53713",Madison,Faith,21.6,6804.0,53532.0,WES Engineering,2022-07-01 00:00:00,43.04407832653061,-89.39173453061225,FALSE
+116,P-131,C,Chapel Valley Church,"3102 Prairie Road, Madison, WI, 53719",Madison,Faith,35.52,7992.0,88000.0,Midwest Solar Power,2023-05-01 00:00:00,43.01910558478243,-89.49178788492665,FALSE
+117,P-132,C,Prince of Peace Lutheran Church (ELCA),"Prince of Peace Lutheran Church, 2330 E Calumet Street, Appleton, WI 54915",Appleton,Faith,43.2,13662.0,90000.0,Appleton Solar,2022-07-01 00:00:00,44.24402866435624,-88.37139729672819,FALSE
+118,P-134,C,Catholic Charities,"508 5th Avenue S, La Crosse, WI 54601",La Crosse,Poverty alleviation,28.48,7120.0,57000.0,Solar Connections,2022-09-01 00:00:00,43.80753099891288,-91.250274,FALSE
+119,C-135,C,Agrace HospiceCare,2901 N. Wright Road,Janesville,Health Care,87.0,10000.0,209477.0,Full Spectrum,2023-06-20 00:00:00,42.717777193276454,-88.97349876838393,TRUE
+120,P-136,PS,Albany Lions Club,402 N Cincinnati St.,Albany,Youth Services,19.7,5116.8,57138.0,All Energy Solar,2023-04-01 00:00:00,42.712067217162556,-89.43185453639742,TRUE
+121,P-137,C,Aldo Leopold Foundation,E12919 Levee Rd,Baraboo,Conservation,90.0,28576.8,232000.0,All Sky Energy,2023-06-01 00:00:00,39.093445,-94.708007,TRUE
+122,P-140,C,Couleecap,616 8th St South,LaCrosse,Poverty alleviation,41.0,11360.25,86100.0,Ethos,2022-11-01 00:00:00,35.131718,-97.388902,TRUE
+123,P-141,C,Couleecap,301 Trescher Ave ,Cashton,Poverty alleviation,43.9,12028.5,92127.0,Ethos,2022-11-01 00:00:00,43.74548301342281,-90.781888147651,TRUE
+124,C-142,C,Curative Connections,2900 Curry Lane,Green Bay,Health Care,280.0,10000.0,569900.0,Eland Electric,2023-04-01 00:00:00,32.40620798996655,-99.75821902341137,TRUE
+125,P-143,C,Dane County Humane Society's Wildlife Center,5132 Voges Road,Madison,Animal Shelter,77.0,25000.0,621000.0,Arch,In progress,43.0428533,-89.2925822,TRUE
+126,P-145,C,Emmanuel Community United Methodist Church,N84W16707 Menomonee Avenue,Menomonee Falls,Faith,31.0,9865.8,68921.0,Arch,2023-05-01 00:00:00,43.1698,-88.117129,TRUE
+127,P-146,PS,HALO (Homeless Assistance Leadership Organization),2000 DeKoven Avenue,Racine,Poverty alleviation,60.3,19051.2,133700.0,Arch,2023-09-01 00:00:00,37.519784,-122.307422,TRUE
+128,P-148,C,Hunger Task Force,5000 W. Electric Avenue,West Milwaukee,Poverty alleviation,89.1,28236.6,188638.0,Arch,2023-06-01 00:00:00,43.005228200000005,-87.97641079601479,TRUE
+129,C-149,C,Lawrence University,7590 Boynton Lane,Baileys Harbor,College,217.0,10000.0,910037.0,Faith Technologies,2023-05-01 00:00:00,45.03906958408076,-87.12970990885653,TRUE
+130,C-150,C,MACHA (Madison Area Cooperative Housing Alliance),5318 Hoboken Road,Madison,Housing,14.4,5000.0,46375.0,Full Spectrum,2023-06-01 00:00:00,43.048376,-89.347371,TRUE
+131,P-151,PS,McFarland Lutheran Church,5529 Marsh Rd,McFarland,Faith,30.78,9865.8,120200.0,Synergy Renewables,2023-07-01 00:00:00,42.071572821052634,-82.91476699919028,TRUE
+132,P-153,C,Movin' Out ,1120 N Windsor Ave,Cottage Grove,Housing,20.0,6463.8,65000.0,Westphal Electric,2023-05-01 00:00:00,43.09952349500954,-89.20085222085528,TRUE
+133,C-155,C,Northwest Side Community Development Corporation,4101 N 31st Street,Milwaukee,Poverty alleviation,3.2,2433.0,11500.0,Full Spectrum,2023-03-01 00:00:00,33.495289,-112.016197,TRUE
+134,P-157,C,Pine Valley Community Village,25951 Circle View,Richland Center,Housing,180.0,51030.0,250423.0,Solar Connections,2023-06-01 00:00:00,32.34291,-99.88481,TRUE
+135,P-158,C,Racine County Food Bank,2000 DeKoven Avenue,Racine,Poverty alleviation,37.8,11907.0,84900.0,Arch,2023-06-01 00:00:00,37.519784,-122.307422,TRUE
+136,C-159,C,Rivers and Bluffs Animal Shelter,460 Cliffwood Drive,Prairie du Chien,Animal Shelter,23.0,5000.0,50848.0,Olson Solar,2023-03-01 00:00:00,32.648335843326485,-96.89411362007118,TRUE
+137,P-161,A,Southwestern Wisconsin Community Action Program (SWCAP),1103 21st St,Brodhead,Poverty alleviation,144.2,33412.50000000001,372160.0,Midwest Solar ,In progress,42.32295980633507,-83.08118234323173,TRUE
+138,P-162,C,St. Mary Church Omro Wisconsin ,St Mary's Church 739 Madison Ave.,Omro,Faith,24.0,7824.599999999999,43984.0,Appleton Solar,2023-07-01 00:00:00,40.915591,-74.154512,TRUE
+139,P-163,C,St. Robert Parish,2200 East Capitol Drive ,Shorewood,Faith,92.0,28917.0,188000.0,Arch,2023-03-01 00:00:00,44.294626232931726,-88.37323108433735,TRUE
+140,P-167,C,Vernon Economic Development Association,1201 North Main St ,Viroqua,Housing,100.0,31638.6,174319.0,Ethos,2023-06-01 00:00:00,38.06643,-97.932283,TRUE
+141,C-172,C,Woodland Dunes Nature Center and Preserve,3000 Hawthorne Ave.,Two Rivers,Conservation,16.4,5000.0,42000.0,Eland Electric,2023-04-01 00:00:00,32.815548,-96.819734,TRUE
+142,P-173,C,Chequamegon Humane Association,"923 Rail Drive, Ashland, WI  54806",Ashland,Animal Shelter,15.12,3931.0,43750.0,Jolma Electric,2023-06-01 00:00:00,46.6013984,-90.8405288,FALSE
+143,P-174,A,Cinnaire Solutions Corporation,"2811 S STH 47, Lac du Flambeau (13535 Heather’s Way)",Lac du Flambeau,Housing,100.0,26114.4,240000.0,,In progress,45.978364,-89.913351,TRUE
+144,C-175,C,"Clyde Community Center, Inc","6281 State Rd. 130, Avoca, WI 53506",Avoca,Human Services,8.0,1200.0,38500.0,Solar Connection,2023-07-01 00:00:00,43.181933,-90.3245687,FALSE
+145,C-176,A,Friends of Sauk Prairie Parks and Recreation ,"340 21st St, Prairie du Sac, WI ",Prairie du Sac,Recreation,23.3,3495.0,72354.0,Glow Solar,2023-06-01 00:00:00,43.295874,-89.747204,TRUE
+146,C-177,A,Harry & Rose Samson Family JCC,"10813 N Port Washington Rd, Mequon, WI 53092",Mequon,Human Services,28.8,4320.0,95406.0,Arch Electric,In progress,43.21532839175258,-87.92437668041238,FALSE
+147,P-178,C,Peace Lutheran of Pigeon Falls,"13083 E. Main St., Pigeon Falls, WI. 54760",Pigeon Falls,Faith,44.3,11512.800000000001,110700.0,Ethos Green Power,2023-06-01 00:00:00,44.42588351569788,-91.20623329857344,FALSE
+148,P-179,A,People's United Methodist Church (PUMC),"103 N Alpine Parkway, Oregon, WI  53575",Oregon,Faith,77.8,20498.4,171000.0,Midwest Solar Power,2023-09-01 00:00:00,42.930070900000004,-89.40121200046667,FALSE
+149,C-180,A,Racine Dominican Eco-Justice Center,7133 Michna Rd,Racine,Human Services,20.0,3000.0,79254.0,,In progress,42.81544784285714,-87.82549514285715,TRUE
+150,P-181,C,Rotary Club of Greater Portage County,"1600 Briggs Street, Stevens Point WI 54481",Stevens Point,Human Services,7.5,1966.0,26000.0,Northwind Renewable Energy,2023-06-01 00:00:00,44.525273,-89.576548,FALSE
+151,P-182,C,Shirley M. Wright Memorial Library,11455 Fremont St Trempealeau WI 54661,Trempealeau,Library,32.0,8424.0,82000.0,Ethos Green Power,2023-04-01 00:00:00,44.00448365306123,-91.4312847755102,FALSE
+152,C-183,C,St Dunstan's Episcopal Church,6205 University Ave.,Madison,Faith,29.7,4455.0,73498.0,Full Spectrum Solar,2023-06-01 00:00:00,32.753256,-117.061769,TRUE
+153,S-001,C ,Madison West HS (MMSD),Madison West 30 Ash St. Madison WI 53726,Madison ,School,125.8,18981.0,264180.0,Westphal Electric,2020-10-01 00:00:00,43.069047749999996,-89.425681125,FALSE
+154,S-003,C ,Eau Claire Memorial,2225 Keith St. Eau Claire WI 54701,Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,2020-10-01 00:00:00,44.796169858265685,-91.47324448041644,FALSE
+155,S-004,C ,Eau Claire North HS,"1801 Piedmont Rd, Eau Claire WI 54703",Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,2020-10-01 00:00:00,44.846557,-91.48362,FALSE
+156,S-005,C ,Forest Edge Elementary School (Oregon School District),"Forest Edge El. School 123 E Grove St 
+Oregon WI 53575 ",Oregon,School,646.0,18981.0,1356600.0,TBD/HGA,2020-08-01 00:00:00,42.92784743877551,-89.3835233877551,FALSE
+157,S-006,C ,MERTON Community SD,"N68W28460 Sussex Rd 
+Merton WI 53056",Merton,School,389.0,37962.0,816900.0,Sunvest,2020-12-19 00:00:00,43.142731,-88.310972,FALSE
+158,S-007,C ,Marshfield HS,"1401 E Becker Rd 
+Marshfield WI 54449 ",Marshfield,School,7.4,3796.2,15540.0,PV Systems/  Students,2020-10-01 00:00:00,44.66971577696016,-90.15459840928698,FALSE
+159,S-009,C,Madison College - Fort Atkinson Campus,827 Banker Rd. Fort Atkinson WI 53538,Fort Atkinson,Technical College,149.5,18981.0,313950.0,Arch Electric,2020-09-01 00:00:00,42.94220194320351,-88.8549378013084,FALSE
+160,S-010,C,Madison College - Reedsburg Campus,"300 Alexander Ave. Reedsburg, WI 53959",Reedsburg,Technical College,99.9,18981.0,209790.0,Arch Electric,2020-09-01 00:00:00,43.53111631578947,-90.025309,FALSE
+161,S-011,C,MSTC (tech college),Stevens Point Campus 1001 Center Point Dr. Stevens Point WI 54481,Stevens Point,Technical College,50.0,18981.0,105000.0,Student Install,2020-08-01 00:00:00,44.5229223,-89.574111,FALSE
+162,S-012,C,NWTC (tech college),"Green Bay Campus 2470 West Mason St. Green Bay, WI 54303",Green Bay,Technical College,19.8,3796.2,41580.0,TBD ,2020-12-01 00:00:00,44.52407955223881,-88.0929173880597,FALSE
+163,S-013,C,1 Rice Lake Area School District,"Tainter Elementary, 2201 Carrie Ave, Rice Lake, WI 54868",Rice Lake,School,200.0,15747.199999999999,420000.0,Carlson Electric,2021-09-01 00:00:00,45.47768965,-91.72690564696035,FALSE
+164,S-014,C,1 Rice Lake Area School District,"Rice Lake Middle School, 204 Cameron Rd, Rice Lake, WI 54868",Rice Lake,School,250.0,15747.199999999999,525000.0,Carlson Electric,2021-09-01 00:00:00,45.4985681,-91.7535033,FALSE
+165,S-015,C,1 Rice Lake Area School District,"Rice Lake HS, 30 S Wisconsin Ave. Rice Lake, WI 54868",Rice Lake,School,300.0,15747.199999999999,630000.0,Carlson Electric,2021-09-01 00:00:00,45.50027455,-91.74788211926057,FALSE
+166,S-016,C,2 Milwaukee Area Technical College Mequon,"5555 West Highland Rd. Mequon, WI 53092",Mequon,Technical College,338.0,18981.0,709800.0,Arch Electric,2021-07-01 00:00:00,43.247644,-87.979375,FALSE
+167,S-017,C,2 Milwaukee Area Technical College Oak Creek,"6665 South Howell Ave. Oak Creek, WI 53154",Oak Creek,Technical College,342.0,18981.0,718200.0,Arch Electric,2021-07-01 00:00:00,42.9252604,-87.91436347407043,FALSE
+168,S-018,C,3 Hamilton Elementary School,"1111 S. 7th Street, La Crosse, WI 54601",LaCrosse,School,97.68,18559.2,205128.0,"Solar Connections, LLC",2021-08-01 00:00:00,43.8122836,-91.2514355,FALSE
+169,S-019,C,4 Sevastopol School District,"4550 Hwy 57, Sturgeon Bay, WI 54235",Sturgeon Bay,School,19.98,3796.2,42800.0,Eland Electric,2021-05-01 00:00:00,44.890504,-87.28984,FALSE
+170,S-021,C,5 Madison College - Watertown Campus,1300 W. Main St. Watertown WI 53098,Watertown,Technical College,150.0,37962.0,315000.0,Arch Electric,2021-03-01 00:00:00,43.198758,-88.755135,FALSE
+171,S-022,C,4 Sawyer Elementary School - Sturgeon Bay School District,"60 Willow Drive, Sturgeon Bay, WI 54235",Sturgeon Bay,Technical College,51.8,9842.0,108780.0,Eland Electric,2021-09-01 00:00:00,44.822365660453265,-87.38372996473232,FALSE
+172,S-023,C,2 Chippewa Valley Technical College,"Energy Education Center CVTC, 4000 Campus Road, Eau Claire WI 54703",Eau Claire,Technical College,80.0,26573.399999999998,168000.0,Next Step Energy,2021-04-01 00:00:00,44.837919,-91.553513,FALSE
+173,S-024,C,6 Cashton School District,"436 Front St, Cashton, WI 54619",Cashton,School,61.0,11669.8,128100.0,Olson Solar Energy,2021-08-01 00:00:00,43.739959408163266,-90.78430736734694,FALSE
+174,S-025,C,6 Madison College - Truax Fitness Center,1701 Wright St. Madison WI 53704,Madison,Technical College,72.6,18981.0,152460.0,Arch Electric,2021-08-01 00:00:00,43.1185385,-89.3313846,FALSE
+175,S-026,C,2 Lakeshore Technical College,"1290 North Avenue Cleveland, WI 53015",Cleveland,Technical College,20.72,3936.7999999999997,43512.0,Arch Electric,2021-09-01 00:00:00,43.92120160900212,-87.75332223777345,FALSE
+176,S-027,C,7  Elkhorn School District,482 E. Geneva Street,Elkhorn,School,9.99,3796.2,20979.0,Adams Electric,2021-10-01 00:00:00,36.298495755102046,-94.11360393877551,TRUE
+177,S-028,C,Owen-Withee High School,"832 W 3rd St, Owen, WI 54460",Owen,School,115.4,158515.0,158515.0,Next Step Energy ,2022-10-01 00:00:00,44.95131117789236,-90.57762566496676,FALSE
+178,S-029,C,Reedsburg - Pineview El.,"1121 8th Street, Reedsburg, WI 53959",Reedsburg,School,33.8,15219.0,70980.0,All Sky Energies,2022-09-01 00:00:00,43.539791210925436,-89.99396976611402,FALSE
+179,S-031,C,Northland Pines - St Germain Elementary ,"8234 W STH 70, St Germain, WI 54558",St. Germain,School,70.0,15819.75,147000.0,Carlson Electric,2022-07-01 00:00:00,45.914895,-89.494279,FALSE
+180,S-035,C,West Salem SD - West Salem Middle School,"440 East Ave, West Salem, WI 54669",West Salem,School,128.16,28836.0,269136.0,"Solar Connections, Inc",2022-09-01 00:00:00,43.900676591836735,-91.07653610204082,FALSE
+181,S-038,C,Baraboo HS,"1201 Draper St, Baraboo, WI 53913",Baraboo,School,150.0,25000.0,315000.0,Westphal Electric ,2022-08-01 00:00:00,43.477202,-89.754649,FALSE
+182,S-039,C,Baraboo MS,"1531 Draper St, Baraboo, WI 53913",Baraboo,School,150.0,25000.0,315000.0,Westphal Electric ,2022-08-01 00:00:00,43.47992175510204,-89.75465061224489,FALSE
+183,S-040,C,La Crosse SD - Northside El.,"1611 Kane St, La Crosse, WI 54603",La Crosse ,School,129.94,28836.0,272874.0,"Solar Connections, Inc",2022-09-01 00:00:00,43.84745675,-91.24184948114379,FALSE
+184,S-043,C,SD of Menomonie - Middle School,"920 21st St SE, Menomonie, WI 54751",Menomonie,School,114.48,24910.0,240408.0,Olson Solar,2022-09-01 00:00:00,44.8750242,-91.900613,FALSE
+185,S-046,C,Mount Horeb area School District Children's Community School,"211 Parkway Drive Mount Horeb, WI 53572",Mount Horeb,School,60.0,12636.0,14094.0,Glow Solar/E & S Electric,2023-06-27 00:00:00,43.00372429736185,-89.74285222257895,FALSE
+186,,,,,,,,,,,,18.7778874,100.773732,TRUE
+187,,,,,,,11691.209999999994,2473856.0999999996,26173404.990000002,,,18.7778874,100.773732,TRUE
