@@ -1,186 +1,186 @@
-Unnamed: 0,Unique ID,Status Code,Recipient,Site Address,City,Type,Size of Array (in kW),Value of grant,Value of Project,Installer,Commissioning Date,Latitude,Longitude,Image URL
-0,C001,C,Beth Israel Center,"1406 Mound St, Madison,  53711",Madison,Faith,62.0,3000.0,135835.0,SunVest/Solar Connections,2/23/18 0:00,43.06554444,-89.409403,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C001-BethIsrael-2.jpg
-1,C002,C,Pilgrim United Church of Christ,"535 Stow Street, Fond du Lac, WI  54935",Fond du Lac,Faith,10.5,5200.0,25994.0,Energize,4/27/18 0:00,43.78835833,-88.426097,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C002-FLD-PilgrimUCC.jpg
-2,C003,C,Liberation Park (Kevala),"17483 Kendall Ave, Norwalk 54648",Norwalk,Faith,12.0,6200.0,31020.0,Ethos,5/2/18 0:00,43.8439,-90.644928,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C003-LiberationPark.jpg
-3,C004,C,North Pointe United Methodist Church,"3825 Erie St, Racine, 53402",Racine,Faith,19.8,9881.0,49405.0,Arch,5/2/18 0:00,42.76783611,-87.786269,
-4,C005,C,Midwest Renewable Energy Association,"7558 Deer Road, Custer, WI, 54423",Custer,Adult Education,20.0,10000.0,65000.0,MREA - Trainers,6/29/18 0:00,44.50961667,-89.407072,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C005-MREA.jpg
-5,C006,C,Escuela Verde (TransCenter),"3628 W Pierce St, Milwaukee, WI 53215",Milwaukee,Youth Services,20.3,10000.0,52374.0,SunVest,6/29/18 0:00,43.02379167,-87.959783,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C006-EscuelaVerde-roof.jpg
-6,C007,C,Catholic Youth Expeditions,"3035 Obrien Rd, Baileys Harbor, WI  54202",Baileys Harbor,Youth Services,20.3,10000.0,54400.0,Eland Electric,7/25/18 0:00,45.02558611,-87.168739,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C007-CCBaileysHarbor2.jpg
-7,C008,C,Project Home,"3841 Kipp St, Madison, 53718",Madison,Poverty alleviation,8.2,4000.0,24751.0,Convergence/Re-Volv,8/15/18 0:00,43.04251111,-89.282294,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C008-ProjectHome-1.jpg
-8,C009,C,First Congregational Church in Oshkosh,"137 Algoma Blvd, Oshkosh, 54901",Oshkosh,Faith,19.3,10000.0,59750.0,Northwind,8/22/18 0:00,44.01831111,-88.539258,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C009-FCC-Oshkosh.jpg
-9,C010,C,United Unitarian Universalist Church,"506 N. Washington Ave, Waukesha,  53188",Waukesha,Faith,10.1,5017.0,25087.0,Arch,8/27/18 0:00,43.01933333,-88.245331,
-10,C011,C,Friends of Camp Anokijig Inc.,"W5639 Anokijig Ln, Plymouth, WI 53073",Plymouth,Youth Services,3.0,2000.0,12529.0,Arch,8/30/18 0:00,43.80573611,-87.974072,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C011-Camp-Anokijig.jpg
-11,C012,C,"Sinsinawa Dominicans, Inc","585 County Road Z , Sinsinawa, 53824",Sinsinawa,Faith,250.0,20000.0,410764.0,Eagle Point Solar,11/6/18 0:00,42.52378889,-90.541292,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C012-Sinsinawa-2.jpg
-12,C013,C,Veterans Outreach of Wisconsin,"1624 Yout St, Racine, 53404",Racine,Veterans,19.8,10000.0,52375.0,Arch,11/6/18 0:00,42.74600556,-87.801425,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C013-VetOutreach-1.jpg
-13,C014,C,Heckrodt Wetland Reserve,"1305 Plank Rd., Menasha, WI 54952",Menasha,Conservation,19.6,10000.0,55750.0,Eland Electric Corporation,8/15/18 0:00,44.21042778,-88.420319,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C014-Heckrodt2.jpg
-14,C015,C,Memorial United Church of Christ,"5705 Lacy Road, Fitchburg, WI 53711",Fitchburg,Faith,20.0,10000.0,50000.0,Midwest Solar Power,8/17/18 0:00,43.00072778,-89.438694,
-15,C016,C,Community Homestead Incorporated,"501 280th St, Osceola, WI 54020",Osceola,Human Services,19.2,9000.0,45000.0,Legacy Solar,10/11/18 0:00,45.28366389,-92.730667,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C016CommunityHomestead-1.jpg
-16,C017,C,VFW Post 8483,"5737 County Highway CV, Madison, WI 53704",Madison,Veterans,40.3,10000.0,81850.0,Midwest Solar Power,1/4/19 0:00,43.16260278,-89.335414,
-17,C018,C,Pleasant Ridge Waldorf School,"413 E. Court Street, Viroqua, WI 54664",Viroqua,Education,10.5,5721.0,28605.0,Ethos Green Power LLC,1/28/19 0:00,43.55593056,-90.885042,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C018-PleasantRidge-Waldorf.jpg
-18,C019,C,Walnut Way Conservation Corp.,"2240 N 17th St., Milwaukee, WI 53205",Milwaukee,Poverty alleviation,7.5,4500.0,22500.0,Arch Electric,3/8/19 0:00,43.059825,-87.933614,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C019-WalnutWay-1.jpg
-19,C020,C,St. Bridget's Catholic Church,"211 E. Division Street, River Falls, WI 54022",River Falls,Faith,23.0,10000.0,88912.0,Energy Concepts,8/29/19 0:00,44.86300833,-92.621175,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C020-StBridget.jpg
-20,C021,C,First Unitarian Society of Madison,"900 University Bay Drive, Madison, WI 53705",Madison,Faith,83.0,20000.0,169495.0,Full Spectrum Solar,11/25/19 0:00,43.07553889,-89.435572,
-21,C022,C,Alice's Garden,"2136 N 21st St., Milwaukee, WI 53205",Milwaukee,Food,4.0,9000.0,45000.0,Arch Electric,8/20/21 0:00,43.058625,-87.938225,
-22,C039,C,Attic Angel Place,8301 Old Sauk Rd.,Middleton,Housing,146.25,20000.0,264712.5,SunVest,8/6/19 0:00,43.07352778,-89.528606,
-23,C032,C,Bethel Horizons - Arts Center,4651 Co Rd ZZ,Dodgeville,Youth Services,23.44,10000.0,51461.65,WES Engineering,4/1/19 0:00,43.04569444,-90.119867,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C032-033-BethelHorizons-2.jpg
-24,C033,C,Bethel Horizons - Prairie Center,4651 Co Rd ZZ,Dodgeville,Youth Services,22.0,10000.0,52713.5,WES Engineering,4/1/19 0:00,43.04569444,-90.119867,
-25,C044,C,Blackhawk Evangelical ,"5935 Astor Dr., Fitchburg, WI 53711",Middleton,Faith,100.0,20000.0,190000.0,H and H,10/18/19 0:00,43.00663056,-89.456844,
-26,C034,C,Christ Lutheran Church,237 Daley Street,Spring Green,Faith,18.36,8500.0,42807.68,WES Engineering,4/1/19 0:00,43.17910556,-90.065864,
-27,C038,C,Housing Authority of Milwaukee,6236 W. Birch Street,Milwaukee,Housing,3.96,3028.0,15140.0,Arch Electric,6/27/19 0:00,43.11748056,-87.989547,
-28,C024,C,Humane Society of Burnett Co,7410 County Rd D,Webster,Animal Care,19.72,8112.0,54080.0,Carlson Electric,12/21/18 0:00,45.84615833,-92.365989,
-29,C043,C,Juda School District, N2385 Spring St,Juda,School,4.5,2704.0,13520.0,Synergy ,10/3/19 0:00,42.59080833,-89.510386,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C043-JudaSD-1.jpg
-30,C037,C,Lawton Memorial Library,118 N. Bird St.,La Farge,Library,11.2,6140.0,30702.0,Ethos Green Power,5/20/19 0:00,43.57501111,-90.637314,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C037-LawtonML-1.jpg
-31,C036,C,Literacy Network,701 Dane Street,Madison,Adult Education,19.04,8900.0,44738.46,WES Engineering,5/16/19 0:00,43.04270556,-89.393572,
-32,C023,C,Madison Audobon Society,"W7480 Prairie Lane, Lake Mills, WI",Lake Mills,Conservation,7.5,4425.0,22125.0,Midwest Solar,12/12/18 0:00,43.13958611,-88.9004,
-33,C045,C,NeighborWorks Green Bay,437 S. Jackson Street,Green Bay,Housing,64.68,29624.0,148117.0,Arch Electric,11/8/19 0:00,44.50659722,-88.010489,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C045-NeighborworksGB-2.jpg
-34,C041,C,Northland Lutheran High School,2107 Tower Road,Kronenwetter,School,51.34,10000.0,145549.0,Carlson Electric,8/29/19 0:00,44.84485556,-89.630978,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C041-NorthlandLutheranHS.jpg
-35,C031,C,Oregon Ice Arena,100 N Perry Pkwy,Oregon,Youth Services,190.4,20000.0,381000.0,Full Spectrum Solar,2/7/19 0:00,42.92516111,-89.373144,
-36,C047,C,"Primates, Inc","W8782 County Rd M, Westfield, WI 53964",Westfield,Animal Care,14.28,7951.0,38903.0,Convergence,10/15/20 0:00,43.93975,-89.593894,
-37,C046,C,Redeemer Lutheran,"631 N 19th St, Milwaukee, WI 53233",Milwaukee,Faith,26.18,10000.0,68068.0,SunBadger Solar,11/13/19 0:00,43.03822778,-87.936933,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C046-RedeemerLutheran.jpg
-38,C025,C,SCHA - Exeland Senior Housing,946 N Washington Ave,Exeland,Housing,12.24,5826.0,29131.2,Carlson Electric,1/2/19 0:00,45.66982222,-91.245036,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C025-030-SCHA-1.jpg
-39,C026,C,SCHA-Gibson,5888-5890 N Gibson Ave,Stone Lake,Housing,10.88,5178.0,25894.4,Carlson Electric,1/2/19 0:00,45.84855278,-91.539297,
-40,C027,C,SCHA-Plainview Village,1050 and 1054 Vitcenda Lane,Exeland,Housing,21.08,9710.0,48552.0,Carlson Electric,1/2/19 0:00,45.67347778,-91.245692,
-41,C028,C,SCHA-Radmore Village,3593 N Highland Ave,Radisson,Housing,33.32,10000.0,81183.0,Carlson Electric,1/2/19 0:00,45.76653611,-91.218244,
-42,C029,C,SCHA-Vista Village,15782 Illinois Ave,Hayward,Housing,46.24,10000.0,110051.2,Carlson Electric,1/2/19 0:00,46.02010556,-91.482333,
-43,C030,C,SCHA-Winmore,6530 West McClaine Ave,Winter,Housing,29.24,10000.0,69591.2,Carlson Electric,1/2/19 0:00,45.81587778,-91.008631,
-44,C040,C,Sisters of St. Francis,3110 Nicolet Drive,Green Bay,Faith,98.0,20000.0,228900.0,Eland Electric,8/28/19 0:00,44.55574444,-87.907358,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C040-SistersStFrancis-GB.jpg
-45,C048,C,Solon Springs School District,8993 E. Baldwin Ave,Solon Springs,School,99.9,20000.0,249000.0,Carlson Electric,10/15/20 0:00,46.34620278,-91.831047,
-46,C042,C,St. Dennis Congregation,505 Dempsey Rd ,Madison,Faith,23.8,10000.0,52273.0,Sunvest,9/6/19 0:00,43.0901601,-89.316276,
-47,C050,C,St. John's Lutheran Church,625 E. Netherwood Street,Oregon,Faith,29.6,10000.0,64995.0,Full Spectrum Solar,11/28/20 0:00,42.93648889,-89.372625,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C050-StJohns-Oregon.jpg
-48,C049,C,Washburn Elementary School, 305 West 4th Street,Washburn,School,120.0,20000.0,236693.0,Eagle Point Solar,10/15/20 0:00,46.67389167,-90.897506,
-49,C035,C,Wisconsin Conference UCC,4459 Gray Road,Deforest,Faith,19.95,10000.0,50968.0,Arch Electric,5/2/19 0:00,43.22271111,-89.341186,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C035-WI-Conference.jpg
-50,P051,C,Milwaukee Habitat for Humanity,3726 N Booth Street,Milwaukee,Housing,53.25,11981.25,141612.0,Energize LLC,12/4/19 0:00,43.08460833,-87.902767,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P051-Milw-HfH-Restore.jpg
-51,P052,C,Aspirus - Family Housing Project ,2801 Westhill Drive,Wausau ,Housing,19.53,8786.25,42000.0,North Wind Renewable Energy,11/7/19 0:00,44.96753333,-89.671408,
-52,P053,C,Victory Garden Initiative,249 E Concordia Ave,Milwaukee,Poverty Alleviation,8.8,3996.0,12405.0,Convergence Energy,1/1/20 0:00,43.07832778,-87.907908,
-53,C054,C,St. Thomas Aquinas,"602 Everglade Dr, Madison, WI 53717",Madison,Faith,24.12,10000.0,50148.0,SunVest,3/4/20 0:00,87.90790833,-89.499817,
-54,P055,C,YMCA of the Fox Cities - Camp Nan A Bo Sho,18369 Okonto Ln.,Lakewood,Youth Services,12.425,5827.5,27367.0,Appleton Solar,5/6/20 0:00,45.34339444,-88.440128,
-55,P056,C,"Nourish Farms, Inc.","100 Alfred Miley Ave, Sheboygan Falls, WI 53085",Sheboygan Falls,Food,9.94,4144.0,34000.0,Arch Electric,4/30/20 0:00,43.73503889,-87.804536,
-56,P057,C,Sawyer County Non Profit Housing Development (SCNPHD),10685 & 10695 Reinke Street,Hayward,Housing,67.45,24975.0,181000.0,Carlson Electric,5/13/20 0:00,46.01921944,-91.481956,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P057-059-SCNHA-1.jpg
-57,P058,C,Sawyer County Non Profit Housing Development (SCNPHD),3660 & 3664 N Highland,Radisson,Housing,17.04,7992.0,45800.0,Carlson Electric,5/13/20 0:00,45.76745556,-91.217956,
-58,P059,C,Sawyer County Non Profit Housing Development (SCNPHD),5105 and 5109 N Crawford,Winter,Housing,31.95,14985.0,85946.0,Carlson Electric,5/13/20 0:00,45.81963333,-91.008181,
-59,P060,C,University of Wisconsin-Madison Arboretum,1207 Seminole Highway,Madison,Conservation,25.16,11322.0,90414.0,SunPeak,10/20/20 0:00,43.04137778,-89.430397,
-60,P061,C,Madison Audubon Society,W7503 Kampen Rd,Arlington,Conservation,8.5,3996.0,26785.0,Midwest Solar,11/15/20 0:00,43.32130278,-89.373106,
-61,P063,C,Menīkānaehkem Inc.,N8866 County Rd G,Gresham,Youth Services,11.84,5328.0,25450.0,Eland Electric,4/1/20 0:00,44.85158333,-88.787006,
-62,P064,C,Zwingli United Church of Christ,1693 Washington Street,Verona,Faith,6.0,2830.5,15000.0,Eagle Point Solar,5/1/20 0:00,42.94724722,-89.656875,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P064-MtVernon-Zwingli.jpg
-63,P065,C,CAP Services,"2900 Hoover Road, Suite A",Stevens Point,Poverty Alleviation,13.32,5994.0,28300.0,North Wind,6/1/20 0:00,44.50796944,-89.529458,
-64,P066,C,Humane Society of Jefferson County,w6127 Kiesling rd,Jefferson,Animal Shelter,62.1,12487.5,127600.0,WES Engineering,8/1/20 0:00,42.96984167,-88.837661,
-65,P067,C,Jackson County Animal Shelter,416 County Road R,Black River Falls,Animal Shelter,19.98,8991.0,46000.0,Solar Connection,9/1/20 0:00,44.28812778,-90.863731,
-66,P068,C,Boys & Girls Clubs of Greater La Crosse,1331 Clinton Street,La Crosse,Youth Services,75.48,24975.0,150000.0,Solar Connection,9/1/20 0:00,43.84156667,-91.238236,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P068-BandG-RibbonCutting2022.jpg
-67,P069,C,Habitat for Humanity La Crosse,3181 Berlin Drive,Onalaska,Poverty Alleviation,53.28,12487.5,112900.0,Solar Connection,9/1/20 0:00,43.88458889,-91.166,
-68,P070,C,Camp Amnicon,8450 E Camp Amnicon Rd,South Range,Youth Services,19.24,8658.0,29750.0,Wholesale Solar,11/1/20 0:00,46.68469444,-91.867056,
-69,P071,C,"Kathy's House, Inc.",9101 W Doyne Ave,Wauwautosa,Housing,75.0,24975.0,146250.0,Arch Electric,12/1/20 0:00,43.03921389,-88.026028,
-70,P073,C,"Movin' Out, Inc.",951 Acewood Blvd,Madison,Housing,124.0,24975.0,203795.0,Full Spectrum Solar,9/1/21 0:00,43.08475833,-89.302358,
-71,P074,C,"Aptiv, Inc.",3000 South Avenue,La Crosse,Adult Education,55.5,12487.5,116000.0,Solar Connections,10/8/20 0:00,43.78385278,-91.232483,
-72,P076,C,Covenant Lutheran Church,1525 N Van Buren St,Stoughton,Faith,85.0,24975.0,166500.0,Synergy Renewables,11/10/20 0:00,42.93205556,-89.230308,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P076-Covenant Lutheran Church arial.jpg
-73,P077,C,Dodge County Housing Authority,905 Division St.,Horicon,Housing,104.2,24975.0,266859.0,Midwest Solar,,43.44433056,-88.620622,
-74,P078,C,Grace Congregational United Church of Christ,2801 Garfield Street,Two Rivers,Faith,20.0,11155.5,83749.0,Arch Electric,11/13/20 0:00,44.15969444,-87.556503,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P078-Grace Two Rivers.jpg
-75,P079,C,Green Bay Area Public Schools Education Foundation (on behalf of Aldo Leopold Community School),622 Eliza St,Green Bay,School,13.69,6160.5,16100.0,Eland Electric,6/1/21 0:00,44.49993611,-88.018114,
-76,P080,C,Lutheran Church of the Living Christ,110 N Gammon Road,Madison,Faith,49.21,12487.5,63825.0,SunBadger Solar,3/1/21 0:00,43.06990278,-89.503753,
-77,P081,C,Social Development Foundation,1730 W. North Avenue,Milwaukee,Poverty alleviation,111.0,24975.0,210350.0,Convergence Energy,12/13/20 0:00,43.06076944,-87.934475,
-78,P082,C,Washington County Humane Society,3650 WI-60 Trunk,Slinger,Animal Shelter,49.6,12487.5,103068.8,Current Electric,10/30/20 0:00,43.32545556,-88.219186,
-79,C090,C,"The BRICK Ministries, Inc.",420 Ellis Avenue,Ashland,Poverty alleviation,11.375,6399.0,31991.0,Jolma Electric,2/23/21 0:00,46.58939444,-90.880811,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C090-BRICK-array.jpg
-80,C092,C,"Friends of the Albertson Memorial Library, Inc.",200 North Water St,Albany,Library,28.8,10000.0,53750.0,Full Spectrum Solar,5/24/21 0:00,42.70940833,-89.438644,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C092-Albertson-Lib.jpg
-81,C093,C,Ezekiel Lutheran Church,202 S 2nd St,River Falls,Faith,51.6,10000.0,124127.0,Energy Concepts,10/1/21 0:00,44.85675556,-92.624703,
-82,P083,C,Friends of the Sauk County Fairgrounds,PO Box 303,Baraboo,Community Facility,19.24,8658.0,40398.0,All Sky Energy,5/1/21 0:00,43.47197222,-89.723322,
-83,P086,C,Plymouth Congregational UCC,2401 Atwood Ave,Madison,Faith,17.02,7659.0,41833.0,Arch Electric,11/1/21 0:00,43.09356389,-89.346633,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P086-PlymouthCong-1.jpg
-84,P087,C,Just One More Ministry,4180 N Lydell Street,Glendale,Poverty alleviation,28.86,12487.5,53336.0,Arch Electric,4/1/21 0:00,43.09373611,-87.909117,
-85,P089,C,"Couleecap, Inc.",201 Melby Street,Westby,Poverty alleviation,63.0,12487.5,94958.0,Ethos Green Power,11/1/21 0:00,43.65414722,-90.858317,
-86,P091,C,Community Clothes Closet,1465B Opportunity Way,Menasha,Poverty alleviation,24.42,10989.0,40410.0,Eland Electric,12/1/21 0:00,44.22746389,-88.415028,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P091-Community-Clothes-Closet.jpg
-87,P094,C,All Saints Lutheran Church,2951 Chapel Valley Road ,Fitchburg,Faith,20.7,9324.0,45420.0,Midwest Solar Power,6/1/21 0:00,43.01501944,-89.432764,
-88,P095,C,Milwaukee Habitat for Humanity ReStore,4150 S 108th St,Greenfield,Poverty alleviation,49.95,12487.5,139833.0,Energize,12/1/21 0:00,42.96863611,-88.046931,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P095-Milw-HfH-Restore.jpg
-89,P096,C,"Habitat for Humanity of Dane County, Inc",3101 Latham Drive,Madison,Poverty alleviation,30.0,12487.5,51000.0,Madison Solar Consulting,7/21/21 0:00,43.03030833,-89.402597,
-90,P097,C,Walnut Way Conservation Corps,2240 North 17th Street,Milwaukee,Human Services,10.0,4662.0,51000.0,Arch Electric,2/15/22 0:00,43.059825,-87.933614,
-91,P098,C,Boys & Girls Club of Dane County,"4619 Jenewein Rd, Fitchburg, Wl 53711.",Fitchburg,Youth Services,85.8,24975.0,176500.0,WES Engineering,11/1/21 0:00,43.02846667,-89.457783,
-92,P099,C,Yerkes Future Foundation,373 W Geneva St,Williams Bay,Community Facility,60.0,12487.5,165000.0,Adams Electric,12/1/21 0:00,42.57035278,-88.556272,
-93,C100,C,North Central Conservancy Trust,301 W. Cedar Street,Stevens Point,Conservation,3.4,2676.0,13380.0,North Wind,6/7/21 0:00,44.486625,-89.553944,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C100-NCCT-RibbonCutting.jpg
-94,C101,C,American Birkebeiner,PO Box 911,Hayward,Athletics,6.12,4325.0,21624.4,Tru North Solar,10/1/21 0:00,46.0131,-91.4832,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C101-Am Bierke Array.jpg
-95,C102,C,First Congregational Church-United Church of Christ,311 2nd St.,Wisconsin Rapids,Faith,42.5,5000.0,104700.0,North Wind,11/17/21 0:00,44.38996667,-89.825442,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C102-UCC-WiscRapids 1.jpg
-96,C103,C,"First Congregational United Church of Christ Madison, WI",1609 University Ave,Madison,Faith,61.2,5000.0,134000.0,Full Spectrum,3/2/22 0:00,43.07314722,-89.414433,
-97,C104,C,Visit Sheboygan STEAM,826 S 8th Street,Sheboygan ,Community Facility,19.5,5000.0,46137.0,Arch Electric,2/1/23 0:00,43.74583611,-87.713653,
-98,C105,C,Madison Monthly Meeting (Quakers),1704 Roberts Court,Madison,Faith,20.0,5000.0,39000.0,Full Spectrum,11/1/22 0:00,43.06675556,-89.416097,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C105-MadisonMonthlyMeeting-Quakers.jpg
-99,P109,C,Ashland Area Development Corporation,422 3rd St. West,Ashland,Human Services,120.0,24975.0,166895.0,Jolma Electric,12/1/21 0:00,46.58833056,-90.886639,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P109-AADC1.JPG
-100,P110,C,Neshkoro Area Fire Protection District,W690 County Road E,Neshkoro,Public Safety,14.08,3163.5,39900.0,Ally Sky Energy,11/17/21 0:00,43.97663611,-89.198339,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P110-Neshkoro.jpg
-101,P111,C,American Birkebeiner,PO Box 911,Hayward,Athletics,24.9,5661.0,49880.0,Tru North Solar,11/1/21 0:00,46.0131,-91.4832,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P111-Birkie-SawyerCtyRecorder.jpg
-102,P113,C,Friends of the Pavilion (Formerly known as Friends of the Egg Harbor Library),7845 Church Street,Egg Harbor,Library,20.0,4495.5,53760.0,Eland Electric,8/1/21 0:00,45.05145556,-87.278781,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P113-Kress_pav-panels.jpg
-103,P114,C,Woodland Boys & Girls Club Inc.,W6719 Water St.,Neopit,Youth Services,20.72,4662.0,48100.0,Eland Electric,3/1/22 0:00,44.98494722,-88.828858,
-104,P116,C,Family & Children's Center (Viroqua),1321 N. Main St.,Viroqua,Poverty alleviation,82.0,18481.5,142684.0,Ethos Green Energy,11/1/21 0:00,43.57636389,-90.888408,
-105,P117,C,"Sheboygan Senior Community, Inc",3505 County Rd Y,Sheboygan ,Housing,198.0,24975.0,658000.0,Arch Electric,2/1/23 0:00,43.78173056,-87.779367,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P117-SheboySenCenter-1.jpg
-106,C119,A,Commonwealth Development,"2009 Leland, Madison, WI 53711",Madison,Housing,17.3,5000.0,45000.0,undecided,,43.03104167,-89.479492,
-107,C121,C,ECHO (Everyone Cooperating To Help Others),"65 S High Street, Janesville, WI 53548",Janesville,Poverty alleviation,63.45,10000.0,155452.0,SunBadger,8/17/22 0:00,42.67960833,-89.026772,
-108,P122,C,Midvale Community Lutheran Church ,"4329 Tokay Boulevard, Madison WI 53711 ",Madison,Faith,7.2,1822.5,23995.0,Full Spectrum,3/19/23 0:00,43.05319444,-89.450697,
-109,P124,C,Access Community Health Centers ,"2202 South Park Street, Madison, WI 53713",Madison,Health Care,52.1,11822.0,96320.0,Full Spectrum,3/1/23 0:00,43.04212222,-89.394292,
-110,P125,C,Access Community Health Centers,"1270 W. Main, Sun Prairie, WI, 53590 ",Sun Prairie,Health Care,48.1,10823.0,97000.0,Full Spectrum,3/1/23 0:00,43.17999722,-89.235022,
-111,P126,C,Access Community Health Centers,"3434 E. Washington Ave., Madison, WI, 53704",Madison,Health Care,56.07,12488.0,101305.0,Full Spectrum,3/1/23 0:00,43.114575,-89.329803,
-112,P127,C,Madison Circus Space,"2082 Winnebago St, Madison, WI 53704",Madison,Recreation,27.3,6691.2,64318.0,Full Spectrum,6/3/22 0:00,43.09419167,-89.354389,
-113,P128,C,"Northern Lights Services, Inc","706 Bratley Dr  Washburn, WI 54891",Washburn,Health Care,118.03,24975.0,177420.0,Jolma Electric,12/1/22 0:00,46.68190278,-90.883172,
-114,P129,C,Dunn County Historical Society,"1820 John Russell Road, Menomonie, Wisconsin 54751",Menomonie,Community Facility,50.32,12953.2,155492.0,Next Energy Solutions,8/1/22 0:00,44.904375,-91.919008,
-115,P130,C,Mt Zion Baptist Church (MTZ),"2019 Fisher Street; Madison, WI 53713",Madison,Faith,21.6,6804.0,53532.0,WES Engineering,7/1/22 0:00,43.043725,-89.391275,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P130-MTZ-Church.jpg
-116,P131,C,Chapel Valley Church,"3102 Prairie Road, Madison, WI, 53719",Madison,Faith,35.52,7992.0,88000.0,Midwest Solar Power,5/1/23 0:00,43.01993056,-89.492217,
-117,P132,C,Prince of Peace Lutheran Church (ELCA),"Prince of Peace Lutheran Church, 2330 E Calumet Street, Appleton, WI 54915",Appleton,Faith,43.2,13662.0,90000.0,Appleton Solar,7/1/22 0:00,44.24421667,-88.37015,
-118,P134,C,Catholic Charities,"508 5th Avenue S, La Crosse, WI 54601",La Crosse,Poverty alleviation,28.48,7120.0,57000.0,Solar Connections,9/1/22 0:00,43.80737778,-91.250564,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P134-Catholic Charities LaCrosse.jpg
-119,C135,C,Agrace HospiceCare,2901 N. Wright Road,Janesville,Health Care,87.0,10000.0,209477.0,Full Spectrum,6/20/23 0:00,42.71838333,-88.974369,
-120,P136,PS,Albany Lions Club,402 N Cincinnati St.,Albany,Youth Services,19.7,5116.8,57138.0,All Energy Solar,4/1/23 0:00,42.71243056,-89.431697,
-121,P137,C,Aldo Leopold Foundation,E12919 Levee Rd,Baraboo,Conservation,90.0,28576.8,232000.0,All Sky Energy,6/1/23 0:00,43.55825556,-89.678792,
-122,P140,C,Couleecap,616 8th St South,LaCrosse,Poverty alleviation,41.0,11360.25,86100.0,Ethos,11/1/22 0:00,43.80520278,-91.246297,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P140-Couleecap Roof.jpg
-123,P141,C,Couleecap,301 Trescher Ave ,Cashton,Poverty alleviation,43.9,12028.5,92127.0,Ethos,11/1/22 0:00,43.74536944,-90.782069,
-124,C142,C,Curative Connections,2900 Curry Lane,Green Bay,Health Care,280.0,10000.0,569900.0,Eland Electric,4/1/23 0:00,44.52288611,-87.933939,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C142-CurtvConnections.jpg
-125,P143,C,Dane County Humane Society's Wildlife Center,5132 Voges Road,Madison,Animal Shelter,77.0,25000.0,621000.0,Arch,In progress,43.043175,-89.292364,
-126,P145,C,Emmanuel Community United Methodist Church,N84W16707 Menomonee Avenue,Menomonee Falls,Faith,31.0,9865.8,68921.0,Arch,5/1/23 0:00,43.16980278,-88.117156,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P145-EM-MenFalls.jpg
-127,P146,PS,HALO (Homeless Assistance Leadership Organization),2000 DeKoven Avenue,Racine,Poverty alleviation,60.3,19051.2,133700.0,Arch,9/1/23 0:00,42.70939444,-87.803822,
-128,P148,C,Hunger Task Force,5000 W. Electric Avenue,West Milwaukee,Poverty alleviation,89.1,28236.6,188638.0,Arch,6/1/23 0:00,43.00545833,-87.975894,
-129,C149,C,Lawrence University,7590 Boynton Lane,Baileys Harbor,College,217.0,10000.0,910037.0,Faith Technologies,5/1/23 0:00,43.0428533,-89.292582,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C149-LawrenceUniv-bjorklunden.jpg
-130,C150,C,MACHA (Madison Area Cooperative Housing Alliance),5318 Hoboken Road,Madison,Housing,14.4,5000.0,46375.0,Full Spectrum,6/1/23 0:00,43.04855833,-89.347261,
-131,P151,PS,McFarland Lutheran Church,5529 Marsh Rd,McFarland,Faith,30.78,9865.8,120200.0,Synergy Renewables,7/1/23 0:00,43.01675,-89.285733,
-132,P153,C,Movin' Out ,1120 N Windsor Ave,Cottage Grove,Housing,20.0,6463.8,65000.0,Westphal Electric,5/1/23 0:00,43.10038333,-89.1999,
-133,C155,C,Northwest Side Community Development Corporation,4101 N 31st Street,Milwaukee,Poverty alleviation,3.2,2433.0,11500.0,Full Spectrum,3/1/23 0:00,43.0913,-87.953042,
-134,P157,C,Pine Valley Community Village,25951 Circle View,Richland Center,Housing,180.0,51030.0,250423.0,Solar Connections,6/1/23 0:00,43.30371111,-90.352586,
-135,P158,C,Racine County Food Bank,2000 DeKoven Avenue,Racine,Poverty alleviation,37.8,11907.0,84900.0,Arch,6/1/23 0:00,42.70939444,-87.803822,
-136,C159,C,Rivers and Bluffs Animal Shelter,460 Cliffwood Drive,Prairie du Chien,Animal Shelter,23.0,5000.0,50848.0,Olson Solar,3/1/23 0:00,43.07619167,-91.139858,
-137,P161,A,Southwestern Wisconsin Community Action Program (SWCAP),1103 21st St,Brodhead,Poverty alleviation,144.2,33412.5,372160.0,Midwest Solar ,In progress,42.61004167,-89.37955,
-138,P162,C,St. Mary Church Omro Wisconsin ,St Mary's Church 739 Madison Ave.,Omro,Faith,24.0,7824.6,43984.0,Appleton Solar,7/1/23 0:00,44.03374167,-88.742347,
-139,P163,C,St. Robert Parish,2200 East Capitol Drive ,Shorewood,Faith,92.0,28917.0,188000.0,Arch,3/1/23 0:00,43.08983889,-87.882239,
-140,P167,C,Vernon Economic Development Association,1201 North Main St ,Viroqua,Housing,100.0,31638.6,174319.0,Ethos,6/1/23 0:00,43.57183056,-90.887328,
-141,C172,C,Woodland Dunes Nature Center and Preserve,3000 Hawthorne Ave.,Two Rivers,Conservation,16.4,5000.0,42000.0,Eland Electric,4/1/23 0:00,44.15411111,-87.589492,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C172-Woodland-Dunes.jpg
-142,P173,C,Chequamegon Humane Association,"923 Rail Drive, Ashland, WI  54806",Ashland,Animal Shelter,15.12,3931.0,43750.0,Jolma Electric,6/1/23 0:00,46.60031111,-90.841336,
-143,P174,A,Cinnaire Solutions Corporation,,Lac du Flambeau,Housing,100.0,26114.4,240000.0,,In progress,45.97707778,-89.863825,
-144,C175,C,"Clyde Community Center, Inc","6281 State Rd. 130, Avoca, WI 53506",Avoca,Human Services,8.0,1200.0,38500.0,Solar Connection,7/1/23 0:00,43.11871111,-90.209653,
-145,C176,A,Friends of Sauk Prairie Parks and Recreation ,"340 21st St, Prairie du Sac, WI ",Prairie du Sac,Recreation,23.3,3495.0,72354.0,Glow Solar,6/1/23 0:00,43.28189167,-89.748369,
-146,C177,A,Harry & Rose Samson Family JCC,"10813 N Port Washington Rd, Mequon, WI 53092",Mequon,Human Services,28.8,4320.0,95406.0,Arch Electric,In progress,43.21465556,-87.925289,
-147,P178,C,Peace Lutheran of Pigeon Falls,"13083 E. Main St., Pigeon Falls, WI. 54760",Pigeon Falls,Faith,44.3,11512.8,110700.0,Ethos Green Power,6/1/23 0:00,44.42513889,-91.206689,
-148,P179,A,People's United Methodist Church (PUMC),"103 N Alpine Parkway, Oregon, WI  53575",Oregon,Faith,77.8,20498.4,171000.0,Midwest Solar Power,9/1/23 0:00,42.93008889,-89.401403,
-149,C180,A,Racine Dominican Eco-Justice Center,7133 Michna Rd,Racine,Human Services,20.0,3000.0,79254.0,,In progress,42.81631111,-87.823725,
-150,P181,C,Rotary Club of Greater Portage County,"1600 Briggs Street, Stevens Point WI 54481",Stevens Point,Human Services,7.5,1966.0,26000.0,Northwind Renewable Energy,6/1/23 0:00,44.52553333,-89.576544,
-151,P182,C,Shirley M. Wright Memorial Library,11455 Fremont St Trempealeau WI 54661,Trempealeau,Library,32.0,8424.0,82000.0,Ethos Green Power,4/1/23 0:00,44.00465,-91.431767,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P182-Wright_Lib.jpg
-152,C183,C,St Dunstan's Episcopal Church,6205 University Ave.,Madison,Faith,29.7,4455.0,73498.0,Full Spectrum Solar,6/1/23 0:00,43.08967778,-89.487044,
-153,S001,C ,Madison West HS (MMSD),Madison West 30 Ash St. Madison WI 53726,Madison ,School,125.8,18981.0,264180.0,Westphal Electric,10/1/20 0:00,43.06874722,-89.426608,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S001-MMSD-West.jpg
-154,S003,C ,Eau Claire Memorial,2225 Keith St. Eau Claire WI 54701,Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,10/1/20 0:00,44.79606389,-91.470661,
-155,S004,C ,Eau Claire North HS,"1801 Piedmont Rd, Eau Claire WI 54703",Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,10/1/20 0:00,44.84504722,-91.482753,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S004-MemorialNorth_Panels.jpg
-156,S005,C ,Forest Edge Elementary School (Oregon School District),"Forest Edge El. School 123 E Grove St 
+,Unnamed: 0,Unique ID,Status Code,Recipient,Site Address,City,Type,Size of Array (in kW),Value of grant,Value of Project,Installer,Commissioning Date,Latitude,Longitude,Image URL
+0,0,C001,C,Beth Israel Center,"1406 Mound St, Madison,  53711",Madison,Faith,62.0,3000.0,135835.0,SunVest/Solar Connections,2/23/18 0:00,43.06554444,-89.409403,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C001-BethIsrael-2.jpg
+1,1,C002,C,Pilgrim United Church of Christ,"535 Stow Street, Fond du Lac, WI  54935",Fond du Lac,Faith,10.5,5200.0,25994.0,Energize,4/27/18 0:00,43.78835833,-88.426097,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C002-FLD-PilgrimUCC.jpg
+2,2,C003,C,Liberation Park (Kevala),"17483 Kendall Ave, Norwalk 54648",Norwalk,Faith,12.0,6200.0,31020.0,Ethos,5/2/18 0:00,43.8439,-90.644928,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C003-LiberationPark.jpg
+3,3,C004,C,North Pointe United Methodist Church,"3825 Erie St, Racine, 53402",Racine,Faith,19.8,9881.0,49405.0,Arch,5/2/18 0:00,42.76783611,-87.786269,
+4,4,C005,C,Midwest Renewable Energy Association,"7558 Deer Road, Custer, WI, 54423",Custer,Adult Education,20.0,10000.0,65000.0,MREA - Trainers,6/29/18 0:00,44.50961667,-89.407072,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C005-MREA.jpg
+5,5,C006,C,Escuela Verde (TransCenter),"3628 W Pierce St, Milwaukee, WI 53215",Milwaukee,Youth Services,20.3,10000.0,52374.0,SunVest,6/29/18 0:00,43.02379167,-87.959783,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C006-EscuelaVerde-roof.jpg
+6,6,C007,C,Catholic Youth Expeditions,"3035 Obrien Rd, Baileys Harbor, WI  54202",Baileys Harbor,Youth Services,20.3,10000.0,54400.0,Eland Electric,7/25/18 0:00,45.02558611,-87.168739,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C007-CCBaileysHarbor2.jpg
+7,7,C008,C,Project Home,"3841 Kipp St, Madison, 53718",Madison,Poverty alleviation,8.2,4000.0,24751.0,Convergence/Re-Volv,8/15/18 0:00,43.04251111,-89.282294,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C008-ProjectHome-1.jpg
+8,8,C009,C,First Congregational Church in Oshkosh,"137 Algoma Blvd, Oshkosh, 54901",Oshkosh,Faith,19.3,10000.0,59750.0,Northwind,8/22/18 0:00,44.01831111,-88.539258,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C009-FCC-Oshkosh.jpg
+9,9,C010,C,United Unitarian Universalist Church,"506 N. Washington Ave, Waukesha,  53188",Waukesha,Faith,10.1,5017.0,25087.0,Arch,8/27/18 0:00,43.01933333,-88.245331,
+10,10,C011,C,Friends of Camp Anokijig Inc.,"W5639 Anokijig Ln, Plymouth, WI 53073",Plymouth,Youth Services,3.0,2000.0,12529.0,Arch,8/30/18 0:00,43.80573611,-87.974072,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C011-Camp-Anokijig.jpg
+11,11,C012,C,"Sinsinawa Dominicans, Inc","585 County Road Z , Sinsinawa, 53824",Sinsinawa,Faith,250.0,20000.0,410764.0,Eagle Point Solar,11/6/18 0:00,42.52378889,-90.541292,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C012-Sinsinawa-2.jpg
+12,12,C013,C,Veterans Outreach of Wisconsin,"1624 Yout St, Racine, 53404",Racine,Veterans,19.8,10000.0,52375.0,Arch,11/6/18 0:00,42.74600556,-87.801425,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C013-VetOutreach-1.jpg
+13,13,C014,C,Heckrodt Wetland Reserve,"1305 Plank Rd., Menasha, WI 54952",Menasha,Conservation,19.6,10000.0,55750.0,Eland Electric Corporation,8/15/18 0:00,44.21042778,-88.420319,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C014-Heckrodt2.jpg
+14,14,C015,C,Memorial United Church of Christ,"5705 Lacy Road, Fitchburg, WI 53711",Fitchburg,Faith,20.0,10000.0,50000.0,Midwest Solar Power,8/17/18 0:00,43.00072778,-89.438694,
+15,15,C016,C,Community Homestead Incorporated,"501 280th St, Osceola, WI 54020",Osceola,Human Services,19.2,9000.0,45000.0,Legacy Solar,10/11/18 0:00,45.28366389,-92.730667,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C016CommunityHomestead-1.jpg
+16,16,C017,C,VFW Post 8483,"5737 County Highway CV, Madison, WI 53704",Madison,Veterans,40.3,10000.0,81850.0,Midwest Solar Power,1/4/19 0:00,43.16260278,-89.335414,
+17,17,C018,C,Pleasant Ridge Waldorf School,"413 E. Court Street, Viroqua, WI 54664",Viroqua,Education,10.5,5721.0,28605.0,Ethos Green Power LLC,1/28/19 0:00,43.55593056,-90.885042,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C018-PleasantRidge-Waldorf.jpg
+18,18,C019,C,Walnut Way Conservation Corp.,"2240 N 17th St., Milwaukee, WI 53205",Milwaukee,Poverty alleviation,7.5,4500.0,22500.0,Arch Electric,3/8/19 0:00,43.059825,-87.933614,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C019-WalnutWay-1.jpg
+19,19,C020,C,St. Bridget's Catholic Church,"211 E. Division Street, River Falls, WI 54022",River Falls,Faith,23.0,10000.0,88912.0,Energy Concepts,8/29/19 0:00,44.86300833,-92.621175,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C020-StBridget.jpg
+20,20,C021,C,First Unitarian Society of Madison,"900 University Bay Drive, Madison, WI 53705",Madison,Faith,83.0,20000.0,169495.0,Full Spectrum Solar,11/25/19 0:00,43.07553889,-89.435572,
+21,21,C022,C,Alice's Garden,"2136 N 21st St., Milwaukee, WI 53205",Milwaukee,Food,4.0,9000.0,45000.0,Arch Electric,8/20/21 0:00,43.058625,-87.938225,
+22,22,C039,C,Attic Angel Place,8301 Old Sauk Rd.,Middleton,Housing,146.25,20000.0,264712.5,SunVest,8/6/19 0:00,43.07352778,-89.528606,
+23,23,C032,C,Bethel Horizons - Arts Center,4651 Co Rd ZZ,Dodgeville,Youth Services,23.44,10000.0,51461.65,WES Engineering,4/1/19 0:00,43.04569444,-90.119867,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C032-033-BethelHorizons-2.jpg
+24,24,C033,C,Bethel Horizons - Prairie Center,4651 Co Rd ZZ,Dodgeville,Youth Services,22.0,10000.0,52713.5,WES Engineering,4/1/19 0:00,43.04569444,-90.119867,
+25,25,C044,C,Blackhawk Evangelical ,"5935 Astor Dr., Fitchburg, WI 53711",Middleton,Faith,100.0,20000.0,190000.0,H and H,10/18/19 0:00,43.00663056,-89.456844,
+26,26,C034,C,Christ Lutheran Church,237 Daley Street,Spring Green,Faith,18.36,8500.0,42807.68,WES Engineering,4/1/19 0:00,43.17910556,-90.065864,
+27,27,C038,C,Housing Authority of Milwaukee,6236 W. Birch Street,Milwaukee,Housing,3.96,3028.0,15140.0,Arch Electric,6/27/19 0:00,43.11748056,-87.989547,
+28,28,C024,C,Humane Society of Burnett Co,7410 County Rd D,Webster,Animal Care,19.72,8112.0,54080.0,Carlson Electric,12/21/18 0:00,45.84615833,-92.365989,
+29,29,C043,C,Juda School District, N2385 Spring St,Juda,School,4.5,2704.0,13520.0,Synergy ,10/3/19 0:00,42.59080833,-89.510386,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C043-JudaSD-1.jpg
+30,30,C037,C,Lawton Memorial Library,118 N. Bird St.,La Farge,Library,11.2,6140.0,30702.0,Ethos Green Power,5/20/19 0:00,43.57501111,-90.637314,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C037-LawtonML-1.jpg
+31,31,C036,C,Literacy Network,701 Dane Street,Madison,Adult Education,19.04,8900.0,44738.46,WES Engineering,5/16/19 0:00,43.04270556,-89.393572,
+32,32,C023,C,Madison Audobon Society,"W7480 Prairie Lane, Lake Mills, WI",Lake Mills,Conservation,7.5,4425.0,22125.0,Midwest Solar,12/12/18 0:00,43.13958611,-88.9004,
+33,33,C045,C,NeighborWorks Green Bay,437 S. Jackson Street,Green Bay,Housing,64.68,29624.0,148117.0,Arch Electric,11/8/19 0:00,44.50659722,-88.010489,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C045-NeighborworksGB-2.jpg
+34,34,C041,C,Northland Lutheran High School,2107 Tower Road,Kronenwetter,School,51.34,10000.0,145549.0,Carlson Electric,8/29/19 0:00,44.84485556,-89.630978,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C041-NorthlandLutheranHS.jpg
+35,35,C031,C,Oregon Ice Arena,100 N Perry Pkwy,Oregon,Youth Services,190.4,20000.0,381000.0,Full Spectrum Solar,2/7/19 0:00,42.92516111,-89.373144,
+36,36,C047,C,"Primates, Inc","W8782 County Rd M, Westfield, WI 53964",Westfield,Animal Care,14.28,7951.0,38903.0,Convergence,10/15/20 0:00,43.93975,-89.593894,
+37,37,C046,C,Redeemer Lutheran,"631 N 19th St, Milwaukee, WI 53233",Milwaukee,Faith,26.18,10000.0,68068.0,SunBadger Solar,11/13/19 0:00,43.03822778,-87.936933,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C046-RedeemerLutheran.jpg
+38,38,C025,C,SCHA - Exeland Senior Housing,946 N Washington Ave,Exeland,Housing,12.24,5826.0,29131.2,Carlson Electric,1/2/19 0:00,45.66982222,-91.245036,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C025-030-SCHA-1.jpg
+39,39,C026,C,SCHA-Gibson,5888-5890 N Gibson Ave,Stone Lake,Housing,10.88,5178.0,25894.4,Carlson Electric,1/2/19 0:00,45.84855278,-91.539297,
+40,40,C027,C,SCHA-Plainview Village,1050 and 1054 Vitcenda Lane,Exeland,Housing,21.08,9710.0,48552.0,Carlson Electric,1/2/19 0:00,45.67347778,-91.245692,
+41,41,C028,C,SCHA-Radmore Village,3593 N Highland Ave,Radisson,Housing,33.32,10000.0,81183.0,Carlson Electric,1/2/19 0:00,45.76653611,-91.218244,
+42,42,C029,C,SCHA-Vista Village,15782 Illinois Ave,Hayward,Housing,46.24,10000.0,110051.2,Carlson Electric,1/2/19 0:00,46.02010556,-91.482333,
+43,43,C030,C,SCHA-Winmore,6530 West McClaine Ave,Winter,Housing,29.24,10000.0,69591.2,Carlson Electric,1/2/19 0:00,45.81587778,-91.008631,
+44,44,C040,C,Sisters of St. Francis,3110 Nicolet Drive,Green Bay,Faith,98.0,20000.0,228900.0,Eland Electric,8/28/19 0:00,44.55574444,-87.907358,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C040-SistersStFrancis-GB.jpg
+45,45,C048,C,Solon Springs School District,8993 E. Baldwin Ave,Solon Springs,School,99.9,20000.0,249000.0,Carlson Electric,10/15/20 0:00,46.34620278,-91.831047,
+46,46,C042,C,St. Dennis Congregation,505 Dempsey Rd ,Madison,Faith,23.8,10000.0,52273.0,Sunvest,9/6/19 0:00,43.0901601,-89.316276,
+47,47,C050,C,St. John's Lutheran Church,625 E. Netherwood Street,Oregon,Faith,29.6,10000.0,64995.0,Full Spectrum Solar,11/28/20 0:00,42.93648889,-89.372625,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C050-StJohns-Oregon.jpg
+48,48,C049,C,Washburn Elementary School, 305 West 4th Street,Washburn,School,120.0,20000.0,236693.0,Eagle Point Solar,10/15/20 0:00,46.67389167,-90.897506,
+49,49,C035,C,Wisconsin Conference UCC,4459 Gray Road,Deforest,Faith,19.95,10000.0,50968.0,Arch Electric,5/2/19 0:00,43.22271111,-89.341186,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C035-WI-Conference.jpg
+50,50,P051,C,Milwaukee Habitat for Humanity,3726 N Booth Street,Milwaukee,Housing,53.25,11981.25,141612.0,Energize LLC,12/4/19 0:00,43.08460833,-87.902767,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P051-Milw-HfH-Restore.jpg
+51,51,P052,C,Aspirus - Family Housing Project ,2801 Westhill Drive,Wausau ,Housing,19.53,8786.25,42000.0,North Wind Renewable Energy,11/7/19 0:00,44.96753333,-89.671408,
+52,52,P053,C,Victory Garden Initiative,249 E Concordia Ave,Milwaukee,Poverty Alleviation,8.8,3996.0,12405.0,Convergence Energy,1/1/20 0:00,43.07832778,-87.907908,
+53,53,C054,C,St. Thomas Aquinas,"602 Everglade Dr, Madison, WI 53717",Madison,Faith,24.12,10000.0,50148.0,SunVest,3/4/20 0:00,87.90790833,-89.499817,
+54,54,P055,C,YMCA of the Fox Cities - Camp Nan A Bo Sho,18369 Okonto Ln.,Lakewood,Youth Services,12.425,5827.5,27367.0,Appleton Solar,5/6/20 0:00,45.34339444,-88.440128,
+55,55,P056,C,"Nourish Farms, Inc.","100 Alfred Miley Ave, Sheboygan Falls, WI 53085",Sheboygan Falls,Food,9.94,4144.0,34000.0,Arch Electric,4/30/20 0:00,43.73503889,-87.804536,
+56,56,P057,C,Sawyer County Non Profit Housing Development (SCNPHD),10685 & 10695 Reinke Street,Hayward,Housing,67.45,24975.0,181000.0,Carlson Electric,5/13/20 0:00,46.01921944,-91.481956,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P057-059-SCNHA-1.jpg
+57,57,P058,C,Sawyer County Non Profit Housing Development (SCNPHD),3660 & 3664 N Highland,Radisson,Housing,17.04,7992.0,45800.0,Carlson Electric,5/13/20 0:00,45.76745556,-91.217956,
+58,58,P059,C,Sawyer County Non Profit Housing Development (SCNPHD),5105 and 5109 N Crawford,Winter,Housing,31.95,14985.0,85946.0,Carlson Electric,5/13/20 0:00,45.81963333,-91.008181,
+59,59,P060,C,University of Wisconsin-Madison Arboretum,1207 Seminole Highway,Madison,Conservation,25.16,11322.0,90414.0,SunPeak,10/20/20 0:00,43.04137778,-89.430397,
+60,60,P061,C,Madison Audubon Society,W7503 Kampen Rd,Arlington,Conservation,8.5,3996.0,26785.0,Midwest Solar,11/15/20 0:00,43.32130278,-89.373106,
+61,61,P063,C,Menīkānaehkem Inc.,N8866 County Rd G,Gresham,Youth Services,11.84,5328.0,25450.0,Eland Electric,4/1/20 0:00,44.85158333,-88.787006,
+62,62,P064,C,Zwingli United Church of Christ,1693 Washington Street,Verona,Faith,6.0,2830.5,15000.0,Eagle Point Solar,5/1/20 0:00,42.94724722,-89.656875,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P064-MtVernon-Zwingli.jpg
+63,63,P065,C,CAP Services,"2900 Hoover Road, Suite A",Stevens Point,Poverty Alleviation,13.32,5994.0,28300.0,North Wind,6/1/20 0:00,44.50796944,-89.529458,
+64,64,P066,C,Humane Society of Jefferson County,w6127 Kiesling rd,Jefferson,Animal Shelter,62.1,12487.5,127600.0,WES Engineering,8/1/20 0:00,42.96984167,-88.837661,
+65,65,P067,C,Jackson County Animal Shelter,416 County Road R,Black River Falls,Animal Shelter,19.98,8991.0,46000.0,Solar Connection,9/1/20 0:00,44.28812778,-90.863731,
+66,66,P068,C,Boys & Girls Clubs of Greater La Crosse,1331 Clinton Street,La Crosse,Youth Services,75.48,24975.0,150000.0,Solar Connection,9/1/20 0:00,43.84156667,-91.238236,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P068-BandG-RibbonCutting2022.jpg
+67,67,P069,C,Habitat for Humanity La Crosse,3181 Berlin Drive,Onalaska,Poverty Alleviation,53.28,12487.5,112900.0,Solar Connection,9/1/20 0:00,43.88458889,-91.166,
+68,68,P070,C,Camp Amnicon,8450 E Camp Amnicon Rd,South Range,Youth Services,19.24,8658.0,29750.0,Wholesale Solar,11/1/20 0:00,46.68469444,-91.867056,
+69,69,P071,C,"Kathy's House, Inc.",9101 W Doyne Ave,Wauwautosa,Housing,75.0,24975.0,146250.0,Arch Electric,12/1/20 0:00,43.03921389,-88.026028,
+70,70,P073,C,"Movin' Out, Inc.",951 Acewood Blvd,Madison,Housing,124.0,24975.0,203795.0,Full Spectrum Solar,9/1/21 0:00,43.08475833,-89.302358,
+71,71,P074,C,"Aptiv, Inc.",3000 South Avenue,La Crosse,Adult Education,55.5,12487.5,116000.0,Solar Connections,10/8/20 0:00,43.78385278,-91.232483,
+72,72,P076,C,Covenant Lutheran Church,1525 N Van Buren St,Stoughton,Faith,85.0,24975.0,166500.0,Synergy Renewables,11/10/20 0:00,42.93205556,-89.230308,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P076-Covenant_Lutheran_Church_arial.jpg
+73,73,P077,C,Dodge County Housing Authority,905 Division St.,Horicon,Housing,104.2,24975.0,266859.0,Midwest Solar,,43.44433056,-88.620622,
+74,74,P078,C,Grace Congregational United Church of Christ,2801 Garfield Street,Two Rivers,Faith,20.0,11155.5,83749.0,Arch Electric,11/13/20 0:00,44.15969444,-87.556503,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P078-Grace_Two_Rivers.jpg
+75,75,P079,C,Green Bay Area Public Schools Education Foundation (on behalf of Aldo Leopold Community School),622 Eliza St,Green Bay,School,13.69,6160.5,16100.0,Eland Electric,6/1/21 0:00,44.49993611,-88.018114,
+76,76,P080,C,Lutheran Church of the Living Christ,110 N Gammon Road,Madison,Faith,49.21,12487.5,63825.0,SunBadger Solar,3/1/21 0:00,43.06990278,-89.503753,
+77,77,P081,C,Social Development Foundation,1730 W. North Avenue,Milwaukee,Poverty alleviation,111.0,24975.0,210350.0,Convergence Energy,12/13/20 0:00,43.06076944,-87.934475,
+78,78,P082,C,Washington County Humane Society,3650 WI-60 Trunk,Slinger,Animal Shelter,49.6,12487.5,103068.8,Current Electric,10/30/20 0:00,43.32545556,-88.219186,
+79,79,C090,C,"The BRICK Ministries, Inc.",420 Ellis Avenue,Ashland,Poverty alleviation,11.375,6399.0,31991.0,Jolma Electric,2/23/21 0:00,46.58939444,-90.880811,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C090-BRICK-array.jpg
+80,80,C092,C,"Friends of the Albertson Memorial Library, Inc.",200 North Water St,Albany,Library,28.8,10000.0,53750.0,Full Spectrum Solar,5/24/21 0:00,42.70940833,-89.438644,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C092-Albertson-Lib.jpg
+81,81,C093,C,Ezekiel Lutheran Church,202 S 2nd St,River Falls,Faith,51.6,10000.0,124127.0,Energy Concepts,10/1/21 0:00,44.85675556,-92.624703,
+82,82,P083,C,Friends of the Sauk County Fairgrounds,PO Box 303,Baraboo,Community Facility,19.24,8658.0,40398.0,All Sky Energy,5/1/21 0:00,43.47197222,-89.723322,
+83,83,P086,C,Plymouth Congregational UCC,2401 Atwood Ave,Madison,Faith,17.02,7659.0,41833.0,Arch Electric,11/1/21 0:00,43.09356389,-89.346633,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P086-PlymouthCong-1.jpg
+84,84,P087,C,Just One More Ministry,4180 N Lydell Street,Glendale,Poverty alleviation,28.86,12487.5,53336.0,Arch Electric,4/1/21 0:00,43.09373611,-87.909117,
+85,85,P089,C,"Couleecap, Inc.",201 Melby Street,Westby,Poverty alleviation,63.0,12487.5,94958.0,Ethos Green Power,11/1/21 0:00,43.65414722,-90.858317,
+86,86,P091,C,Community Clothes Closet,1465B Opportunity Way,Menasha,Poverty alleviation,24.42,10989.0,40410.0,Eland Electric,12/1/21 0:00,44.22746389,-88.415028,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P091-Community-Clothes-Closet.jpg
+87,87,P094,C,All Saints Lutheran Church,2951 Chapel Valley Road ,Fitchburg,Faith,20.7,9324.0,45420.0,Midwest Solar Power,6/1/21 0:00,43.01501944,-89.432764,
+88,88,P095,C,Milwaukee Habitat for Humanity ReStore,4150 S 108th St,Greenfield,Poverty alleviation,49.95,12487.5,139833.0,Energize,12/1/21 0:00,42.96863611,-88.046931,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P095-Milw-HfH-Restore.jpg
+89,89,P096,C,"Habitat for Humanity of Dane County, Inc",3101 Latham Drive,Madison,Poverty alleviation,30.0,12487.5,51000.0,Madison Solar Consulting,7/21/21 0:00,43.03030833,-89.402597,
+90,90,P097,C,Walnut Way Conservation Corps,2240 North 17th Street,Milwaukee,Human Services,10.0,4662.0,51000.0,Arch Electric,2/15/22 0:00,43.059825,-87.933614,
+91,91,P098,C,Boys & Girls Club of Dane County,"4619 Jenewein Rd, Fitchburg, Wl 53711.",Fitchburg,Youth Services,85.8,24975.0,176500.0,WES Engineering,11/1/21 0:00,43.02846667,-89.457783,
+92,92,P099,C,Yerkes Future Foundation,373 W Geneva St,Williams Bay,Community Facility,60.0,12487.5,165000.0,Adams Electric,12/1/21 0:00,42.57035278,-88.556272,
+93,93,C100,C,North Central Conservancy Trust,301 W. Cedar Street,Stevens Point,Conservation,3.4,2676.0,13380.0,North Wind,6/7/21 0:00,44.486625,-89.553944,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C100-NCCT-RibbonCutting.jpg
+94,94,C101,C,American Birkebeiner,PO Box 911,Hayward,Athletics,6.12,4325.0,21624.4,Tru North Solar,10/1/21 0:00,46.0131,-91.4832,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C101-Am_Bierke_Array.jpg
+95,95,C102,C,First Congregational Church-United Church of Christ,311 2nd St.,Wisconsin Rapids,Faith,42.5,5000.0,104700.0,North Wind,11/17/21 0:00,44.38996667,-89.825442,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C102-UCC-WiscRapids_1.jpg
+96,96,C103,C,"First Congregational United Church of Christ Madison, WI",1609 University Ave,Madison,Faith,61.2,5000.0,134000.0,Full Spectrum,3/2/22 0:00,43.07314722,-89.414433,
+97,97,C104,C,Visit Sheboygan STEAM,826 S 8th Street,Sheboygan ,Community Facility,19.5,5000.0,46137.0,Arch Electric,2/1/23 0:00,43.74583611,-87.713653,
+98,98,C105,C,Madison Monthly Meeting (Quakers),1704 Roberts Court,Madison,Faith,20.0,5000.0,39000.0,Full Spectrum,11/1/22 0:00,43.06675556,-89.416097,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C105-MadisonMonthlyMeeting-Quakers.jpg
+99,99,P109,C,Ashland Area Development Corporation,422 3rd St. West,Ashland,Human Services,120.0,24975.0,166895.0,Jolma Electric,12/1/21 0:00,46.58833056,-90.886639,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P109-AADC1.JPG
+100,100,P110,C,Neshkoro Area Fire Protection District,W690 County Road E,Neshkoro,Public Safety,14.08,3163.5,39900.0,Ally Sky Energy,11/17/21 0:00,43.97663611,-89.198339,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P110-Neshkoro.jpg
+101,101,P111,C,American Birkebeiner,PO Box 911,Hayward,Athletics,24.9,5661.0,49880.0,Tru North Solar,11/1/21 0:00,46.0131,-91.4832,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P111-Birkie-SawyerCtyRecorder.jpg
+102,102,P113,C,Friends of the Pavilion (Formerly known as Friends of the Egg Harbor Library),7845 Church Street,Egg Harbor,Library,20.0,4495.5,53760.0,Eland Electric,8/1/21 0:00,45.05145556,-87.278781,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P113-Kress_pav-panels.jpg
+103,103,P114,C,Woodland Boys & Girls Club Inc.,W6719 Water St.,Neopit,Youth Services,20.72,4662.0,48100.0,Eland Electric,3/1/22 0:00,44.98494722,-88.828858,
+104,104,P116,C,Family & Children's Center (Viroqua),1321 N. Main St.,Viroqua,Poverty alleviation,82.0,18481.5,142684.0,Ethos Green Energy,11/1/21 0:00,43.57636389,-90.888408,
+105,105,P117,C,"Sheboygan Senior Community, Inc",3505 County Rd Y,Sheboygan ,Housing,198.0,24975.0,658000.0,Arch Electric,2/1/23 0:00,43.78173056,-87.779367,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P117-SheboySenCenter-1.jpg
+106,106,C119,A,Commonwealth Development,"2009 Leland, Madison, WI 53711",Madison,Housing,17.3,5000.0,45000.0,undecided,,43.03104167,-89.479492,
+107,107,C121,C,ECHO (Everyone Cooperating To Help Others),"65 S High Street, Janesville, WI 53548",Janesville,Poverty alleviation,63.45,10000.0,155452.0,SunBadger,8/17/22 0:00,42.67960833,-89.026772,
+108,108,P122,C,Midvale Community Lutheran Church ,"4329 Tokay Boulevard, Madison WI 53711 ",Madison,Faith,7.2,1822.5,23995.0,Full Spectrum,3/19/23 0:00,43.05319444,-89.450697,
+109,109,P124,C,Access Community Health Centers ,"2202 South Park Street, Madison, WI 53713",Madison,Health Care,52.1,11822.0,96320.0,Full Spectrum,3/1/23 0:00,43.04212222,-89.394292,
+110,110,P125,C,Access Community Health Centers,"1270 W. Main, Sun Prairie, WI, 53590 ",Sun Prairie,Health Care,48.1,10823.0,97000.0,Full Spectrum,3/1/23 0:00,43.17999722,-89.235022,
+111,111,P126,C,Access Community Health Centers,"3434 E. Washington Ave., Madison, WI, 53704",Madison,Health Care,56.07,12488.0,101305.0,Full Spectrum,3/1/23 0:00,43.114575,-89.329803,
+112,112,P127,C,Madison Circus Space,"2082 Winnebago St, Madison, WI 53704",Madison,Recreation,27.3,6691.2,64318.0,Full Spectrum,6/3/22 0:00,43.09419167,-89.354389,
+113,113,P128,C,"Northern Lights Services, Inc","706 Bratley Dr  Washburn, WI 54891",Washburn,Health Care,118.03,24975.0,177420.0,Jolma Electric,12/1/22 0:00,46.68190278,-90.883172,
+114,114,P129,C,Dunn County Historical Society,"1820 John Russell Road, Menomonie, Wisconsin 54751",Menomonie,Community Facility,50.32,12953.2,155492.0,Next Energy Solutions,8/1/22 0:00,44.904375,-91.919008,
+115,115,P130,C,Mt Zion Baptist Church (MTZ),"2019 Fisher Street; Madison, WI 53713",Madison,Faith,21.6,6804.0,53532.0,WES Engineering,7/1/22 0:00,43.043725,-89.391275,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P130-MTZ-Church.jpg
+116,116,P131,C,Chapel Valley Church,"3102 Prairie Road, Madison, WI, 53719",Madison,Faith,35.52,7992.0,88000.0,Midwest Solar Power,5/1/23 0:00,43.01993056,-89.492217,
+117,117,P132,C,Prince of Peace Lutheran Church (ELCA),"Prince of Peace Lutheran Church, 2330 E Calumet Street, Appleton, WI 54915",Appleton,Faith,43.2,13662.0,90000.0,Appleton Solar,7/1/22 0:00,44.24421667,-88.37015,
+118,118,P134,C,Catholic Charities,"508 5th Avenue S, La Crosse, WI 54601",La Crosse,Poverty alleviation,28.48,7120.0,57000.0,Solar Connections,9/1/22 0:00,43.80737778,-91.250564,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P134-Catholic_Charities_LaCrosse.jpg
+119,119,C135,C,Agrace HospiceCare,2901 N. Wright Road,Janesville,Health Care,87.0,10000.0,209477.0,Full Spectrum,6/20/23 0:00,42.71838333,-88.974369,
+120,120,P136,PS,Albany Lions Club,402 N Cincinnati St.,Albany,Youth Services,19.7,5116.8,57138.0,All Energy Solar,4/1/23 0:00,42.71243056,-89.431697,
+121,121,P137,C,Aldo Leopold Foundation,E12919 Levee Rd,Baraboo,Conservation,90.0,28576.8,232000.0,All Sky Energy,6/1/23 0:00,43.55825556,-89.678792,
+122,122,P140,C,Couleecap,616 8th St South,LaCrosse,Poverty alleviation,41.0,11360.25,86100.0,Ethos,11/1/22 0:00,43.80520278,-91.246297,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P140-Couleecap_Roof.jpg
+123,123,P141,C,Couleecap,301 Trescher Ave ,Cashton,Poverty alleviation,43.9,12028.5,92127.0,Ethos,11/1/22 0:00,43.74536944,-90.782069,
+124,124,C142,C,Curative Connections,2900 Curry Lane,Green Bay,Health Care,280.0,10000.0,569900.0,Eland Electric,4/1/23 0:00,44.52288611,-87.933939,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C142-CurtvConnections.jpg
+125,125,P143,C,Dane County Humane Society's Wildlife Center,5132 Voges Road,Madison,Animal Shelter,77.0,25000.0,621000.0,Arch,In progress,43.043175,-89.292364,
+126,126,P145,C,Emmanuel Community United Methodist Church,N84W16707 Menomonee Avenue,Menomonee Falls,Faith,31.0,9865.8,68921.0,Arch,5/1/23 0:00,43.16980278,-88.117156,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P145-EM-MenFalls.jpg
+127,127,P146,PS,HALO (Homeless Assistance Leadership Organization),2000 DeKoven Avenue,Racine,Poverty alleviation,60.3,19051.2,133700.0,Arch,9/1/23 0:00,42.70939444,-87.803822,
+128,128,P148,C,Hunger Task Force,5000 W. Electric Avenue,West Milwaukee,Poverty alleviation,89.1,28236.6,188638.0,Arch,6/1/23 0:00,43.00545833,-87.975894,
+129,129,C149,C,Lawrence University,7590 Boynton Lane,Baileys Harbor,College,217.0,10000.0,910037.0,Faith Technologies,5/1/23 0:00,43.0428533,-89.292582,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C149-LawrenceUniv-bjorklunden.jpg
+130,130,C150,C,MACHA (Madison Area Cooperative Housing Alliance),5318 Hoboken Road,Madison,Housing,14.4,5000.0,46375.0,Full Spectrum,6/1/23 0:00,43.04855833,-89.347261,
+131,131,P151,PS,McFarland Lutheran Church,5529 Marsh Rd,McFarland,Faith,30.78,9865.8,120200.0,Synergy Renewables,7/1/23 0:00,43.01675,-89.285733,
+132,132,P153,C,Movin' Out ,1120 N Windsor Ave,Cottage Grove,Housing,20.0,6463.8,65000.0,Westphal Electric,5/1/23 0:00,43.10038333,-89.1999,
+133,133,C155,C,Northwest Side Community Development Corporation,4101 N 31st Street,Milwaukee,Poverty alleviation,3.2,2433.0,11500.0,Full Spectrum,3/1/23 0:00,43.0913,-87.953042,
+134,134,P157,C,Pine Valley Community Village,25951 Circle View,Richland Center,Housing,180.0,51030.0,250423.0,Solar Connections,6/1/23 0:00,43.30371111,-90.352586,
+135,135,P158,C,Racine County Food Bank,2000 DeKoven Avenue,Racine,Poverty alleviation,37.8,11907.0,84900.0,Arch,6/1/23 0:00,42.70939444,-87.803822,
+136,136,C159,C,Rivers and Bluffs Animal Shelter,460 Cliffwood Drive,Prairie du Chien,Animal Shelter,23.0,5000.0,50848.0,Olson Solar,3/1/23 0:00,43.07619167,-91.139858,
+137,137,P161,A,Southwestern Wisconsin Community Action Program (SWCAP),1103 21st St,Brodhead,Poverty alleviation,144.2,33412.5,372160.0,Midwest Solar ,In progress,42.61004167,-89.37955,
+138,138,P162,C,St. Mary Church Omro Wisconsin ,St Mary's Church 739 Madison Ave.,Omro,Faith,24.0,7824.6,43984.0,Appleton Solar,7/1/23 0:00,44.03374167,-88.742347,
+139,139,P163,C,St. Robert Parish,2200 East Capitol Drive ,Shorewood,Faith,92.0,28917.0,188000.0,Arch,3/1/23 0:00,43.08983889,-87.882239,
+140,140,P167,C,Vernon Economic Development Association,1201 North Main St ,Viroqua,Housing,100.0,31638.6,174319.0,Ethos,6/1/23 0:00,43.57183056,-90.887328,
+141,141,C172,C,Woodland Dunes Nature Center and Preserve,3000 Hawthorne Ave.,Two Rivers,Conservation,16.4,5000.0,42000.0,Eland Electric,4/1/23 0:00,44.15411111,-87.589492,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/C172-Woodland-Dunes.jpg
+142,142,P173,C,Chequamegon Humane Association,"923 Rail Drive, Ashland, WI  54806",Ashland,Animal Shelter,15.12,3931.0,43750.0,Jolma Electric,6/1/23 0:00,46.60031111,-90.841336,
+143,143,P174,A,Cinnaire Solutions Corporation,,Lac du Flambeau,Housing,100.0,26114.4,240000.0,,In progress,45.97707778,-89.863825,
+144,144,C175,C,"Clyde Community Center, Inc","6281 State Rd. 130, Avoca, WI 53506",Avoca,Human Services,8.0,1200.0,38500.0,Solar Connection,7/1/23 0:00,43.11871111,-90.209653,
+145,145,C176,A,Friends of Sauk Prairie Parks and Recreation ,"340 21st St, Prairie du Sac, WI ",Prairie du Sac,Recreation,23.3,3495.0,72354.0,Glow Solar,6/1/23 0:00,43.28189167,-89.748369,
+146,146,C177,A,Harry & Rose Samson Family JCC,"10813 N Port Washington Rd, Mequon, WI 53092",Mequon,Human Services,28.8,4320.0,95406.0,Arch Electric,In progress,43.21465556,-87.925289,
+147,147,P178,C,Peace Lutheran of Pigeon Falls,"13083 E. Main St., Pigeon Falls, WI. 54760",Pigeon Falls,Faith,44.3,11512.8,110700.0,Ethos Green Power,6/1/23 0:00,44.42513889,-91.206689,
+148,148,P179,A,People's United Methodist Church (PUMC),"103 N Alpine Parkway, Oregon, WI  53575",Oregon,Faith,77.8,20498.4,171000.0,Midwest Solar Power,9/1/23 0:00,42.93008889,-89.401403,
+149,149,C180,A,Racine Dominican Eco-Justice Center,7133 Michna Rd,Racine,Human Services,20.0,3000.0,79254.0,,In progress,42.81631111,-87.823725,
+150,150,P181,C,Rotary Club of Greater Portage County,"1600 Briggs Street, Stevens Point WI 54481",Stevens Point,Human Services,7.5,1966.0,26000.0,Northwind Renewable Energy,6/1/23 0:00,44.52553333,-89.576544,
+151,151,P182,C,Shirley M. Wright Memorial Library,11455 Fremont St Trempealeau WI 54661,Trempealeau,Library,32.0,8424.0,82000.0,Ethos Green Power,4/1/23 0:00,44.00465,-91.431767,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/P182-Wright_Lib.jpg
+152,152,C183,C,St Dunstan's Episcopal Church,6205 University Ave.,Madison,Faith,29.7,4455.0,73498.0,Full Spectrum Solar,6/1/23 0:00,43.08967778,-89.487044,
+153,153,S001,C ,Madison West HS (MMSD),Madison West 30 Ash St. Madison WI 53726,Madison ,School,125.8,18981.0,264180.0,Westphal Electric,10/1/20 0:00,43.06874722,-89.426608,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S001-MMSD-West.jpg
+154,154,S003,C ,Eau Claire Memorial,2225 Keith St. Eau Claire WI 54701,Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,10/1/20 0:00,44.79606389,-91.470661,
+155,155,S004,C ,Eau Claire North HS,"1801 Piedmont Rd, Eau Claire WI 54703",Eau Claire,School,126.0,18981.0,264600.0,Eagle Point Solar,10/1/20 0:00,44.84504722,-91.482753,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S004-MemorialNorth_Panels.jpg
+156,156,S005,C ,Forest Edge Elementary School (Oregon School District),"Forest Edge El. School 123 E Grove St 
 Oregon WI 53575 ",Oregon,School,646.0,18981.0,1356600.0,TBD/HGA,8/1/20 0:00,42.92802222,-89.3821,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S005-OregonSD.jpg
-157,S006,C ,MERTON Community SD,"N68W28460 Sussex Rd 
+157,157,S006,C ,MERTON Community SD,"N68W28460 Sussex Rd 
 Merton WI 53056",Merton,School,389.0,37962.0,816900.0,Sunvest,12/19/20 0:00,43.14270278,-88.310956,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S006-Merton-Image.jpg
-158,S007,C ,Marshfield HS,"1401 E Becker Rd 
+158,158,S007,C ,Marshfield HS,"1401 E Becker Rd 
 Marshfield WI 54449 ",Marshfield,School,7.4,3796.2,15540.0,PV Systems/  Students,10/1/20 0:00,44.67158333,-90.153861,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S007-MarshfieldSD.jpg
-159,S009,C,Madison College - Fort Atkinson Campus,827 Banker Rd. Fort Atkinson WI 53538,Fort Atkinson,Technical College,149.5,18981.0,313950.0,Arch Electric,9/1/20 0:00,42.94044722,-88.855842,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S009-MATC.jpg
-160,S010,C,Madison College - Reedsburg Campus,"300 Alexander Ave. Reedsburg, WI 53959",Reedsburg,Technical College,99.9,18981.0,209790.0,Arch Electric,9/1/20 0:00,43.53111632,-90.025309,
-161,S011,C,MSTC (tech college),Stevens Point Campus 1001 Center Point Dr. Stevens Point WI 54481,Stevens Point,Technical College,50.0,18981.0,105000.0,Student Install,8/1/20 0:00,44.52449722,-89.585347,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S011-MSTC.jpg
-162,S012,C,NWTC (tech college),"Green Bay Campus 2470 West Mason St. Green Bay, WI 54303",Green Bay,Technical College,19.8,3796.2,41580.0,TBD ,12/1/20 0:00,44.52696389,-88.092825,
-163,S013,C,1 Rice Lake Area School District,"Tainter Elementary, 2201 Carrie Ave, Rice Lake, WI 54868",Rice Lake,School,200.0,15747.2,420000.0,Carlson Electric,9/1/21 0:00,45.47771389,-91.726903,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S013-015-RiceLakeSD.jpg
-164,S014,C,1 Rice Lake Area School District,"Rice Lake Middle School, 204 Cameron Rd, Rice Lake, WI 54868",Rice Lake,School,250.0,15747.2,525000.0,Carlson Electric,9/1/21 0:00,45.49854167,-91.753439,
-165,S015,C,1 Rice Lake Area School District,"Rice Lake HS, 30 S Wisconsin Ave. Rice Lake, WI 54868",Rice Lake,School,300.0,15747.2,630000.0,Carlson Electric,9/1/21 0:00,45.49986389,-91.746567,
-166,S016,C,2 Milwaukee Area Technical College Mequon,"5555 West Highland Rd. Mequon, WI 53092",Mequon,Technical College,338.0,18981.0,709800.0,Arch Electric,7/1/21 0:00,43.24906944,-87.980497,
-167,S017,C,2 Milwaukee Area Technical College Oak Creek,"6665 South Howell Ave. Oak Creek, WI 53154",Oak Creek,Technical College,342.0,18981.0,718200.0,Arch Electric,7/1/21 0:00,42.92508056,-87.916158,
-168,S018,C,3 Hamilton Elementary School,"1111 S. 7th Street, La Crosse, WI 54601",LaCrosse,School,97.68,18559.2,205128.0,"Solar Connections, LLC",8/1/21 0:00,43.80011944,-91.247061,
-169,S019,C,4 Sevastopol School District,"4550 Hwy 57, Sturgeon Bay, WI 54235",Sturgeon Bay,School,19.98,3796.2,42800.0,Eland Electric,5/1/21 0:00,44.89071111,-87.289419,
-170,S021,C,5 Madison College - Watertown Campus,1300 W. Main St. Watertown WI 53098,Watertown,Technical College,150.0,37962.0,315000.0,Arch Electric,3/1/21 0:00,43.19836389,-88.754656,
-171,S022,C,4 Sawyer Elementary School - Sturgeon Bay School District,"60 Willow Drive, Sturgeon Bay, WI 54235",Sturgeon Bay,Technical College,51.8,9842.0,108780.0,Eland Electric,9/1/21 0:00,44.82251111,-87.384253,
-172,S023,C,2 Chippewa Valley Technical College,"Energy Education Center CVTC, 4000 Campus Road, Eau Claire WI 54703",Eau Claire,Technical College,80.0,26573.4,168000.0,Next Step Energy,4/1/21 0:00,44.83812778,-91.552797,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S023-CVTC-solar-installation-2021.jpg
-173,S024,C,6 Cashton School District,"436 Front St, Cashton, WI 54619",Cashton,School,61.0,11669.8,128100.0,Olson Solar Energy,8/1/21 0:00,43.73896389,-90.783444,
-174,S025,C,6 Madison College - Truax Fitness Center,1701 Wright St. Madison WI 53704,Madison,Technical College,72.6,18981.0,152460.0,Arch Electric,8/1/21 0:00,43.12179167,-89.329653,
-175,S026,C,2 Lakeshore Technical College,"1290 North Avenue Cleveland, WI 53015",Cleveland,Technical College,20.72,3936.8,43512.0,Arch Electric,9/1/21 0:00,43.92388889,-87.752678,
-176,S027,C,7  Elkhorn School District,482 E. Geneva Street,Elkhorn,School,9.99,3796.2,20979.0,Adams Electric,10/1/21 0:00,42.6718,-88.531606,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S027-Elkhorn-SD-Greenhouse-solar.jpg
-177,S028,C,Owen-Withee High School,"832 W 3rd St, Owen, WI 54460",Owen,School,115.4,158515.0,158515.0,Next Step Energy ,10/1/22 0:00,44.94969722,-90.579431,
-178,S029,C,Reedsburg - Pineview El.,"1121 8th Street, Reedsburg, WI 53959",Reedsburg,School,33.8,15219.0,70980.0,All Sky Energies,9/1/22 0:00,43.54050278,-89.992458,
-179,S031,C,Northland Pines - St Germain Elementary ,"8234 W STH 70, St Germain, WI 54558",St. Germain,School,70.0,15819.75,147000.0,Carlson Electric,7/1/22 0:00,45.91286389,-89.498425,
-180,S035,C,West Salem SD - West Salem Middle School,"440 East Ave, West Salem, WI 54669",West Salem,School,128.16,28836.0,269136.0,"Solar Connections, Inc",9/1/22 0:00,43.90072778,-91.076556,
-181,S038,C,Baraboo HS,"1201 Draper St, Baraboo, WI 53913",Baraboo,School,150.0,25000.0,315000.0,Westphal Electric ,8/1/22 0:00,43.47716111,-89.755889,
+159,159,S009,C,Madison College - Fort Atkinson Campus,827 Banker Rd. Fort Atkinson WI 53538,Fort Atkinson,Technical College,149.5,18981.0,313950.0,Arch Electric,9/1/20 0:00,42.94044722,-88.855842,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S009-MATC.jpg
+160,160,S010,C,Madison College - Reedsburg Campus,"300 Alexander Ave. Reedsburg, WI 53959",Reedsburg,Technical College,99.9,18981.0,209790.0,Arch Electric,9/1/20 0:00,43.53111632,-90.025309,
+161,161,S011,C,MSTC (tech college),Stevens Point Campus 1001 Center Point Dr. Stevens Point WI 54481,Stevens Point,Technical College,50.0,18981.0,105000.0,Student Install,8/1/20 0:00,44.52449722,-89.585347,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S011-MSTC.jpg
+162,162,S012,C,NWTC (tech college),"Green Bay Campus 2470 West Mason St. Green Bay, WI 54303",Green Bay,Technical College,19.8,3796.2,41580.0,TBD ,12/1/20 0:00,44.52696389,-88.092825,
+163,163,S013,C,1 Rice Lake Area School District,"Tainter Elementary, 2201 Carrie Ave, Rice Lake, WI 54868",Rice Lake,School,200.0,15747.2,420000.0,Carlson Electric,9/1/21 0:00,45.47771389,-91.726903,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S013-015-RiceLakeSD.jpg
+164,164,S014,C,1 Rice Lake Area School District,"Rice Lake Middle School, 204 Cameron Rd, Rice Lake, WI 54868",Rice Lake,School,250.0,15747.2,525000.0,Carlson Electric,9/1/21 0:00,45.49854167,-91.753439,
+165,165,S015,C,1 Rice Lake Area School District,"Rice Lake HS, 30 S Wisconsin Ave. Rice Lake, WI 54868",Rice Lake,School,300.0,15747.2,630000.0,Carlson Electric,9/1/21 0:00,45.49986389,-91.746567,
+166,166,S016,C,2 Milwaukee Area Technical College Mequon,"5555 West Highland Rd. Mequon, WI 53092",Mequon,Technical College,338.0,18981.0,709800.0,Arch Electric,7/1/21 0:00,43.24906944,-87.980497,
+167,167,S017,C,2 Milwaukee Area Technical College Oak Creek,"6665 South Howell Ave. Oak Creek, WI 53154",Oak Creek,Technical College,342.0,18981.0,718200.0,Arch Electric,7/1/21 0:00,42.92508056,-87.916158,
+168,168,S018,C,3 Hamilton Elementary School,"1111 S. 7th Street, La Crosse, WI 54601",LaCrosse,School,97.68,18559.2,205128.0,"Solar Connections, LLC",8/1/21 0:00,43.80011944,-91.247061,
+169,169,S019,C,4 Sevastopol School District,"4550 Hwy 57, Sturgeon Bay, WI 54235",Sturgeon Bay,School,19.98,3796.2,42800.0,Eland Electric,5/1/21 0:00,44.89071111,-87.289419,
+170,170,S021,C,5 Madison College - Watertown Campus,1300 W. Main St. Watertown WI 53098,Watertown,Technical College,150.0,37962.0,315000.0,Arch Electric,3/1/21 0:00,43.19836389,-88.754656,
+171,171,S022,C,4 Sawyer Elementary School - Sturgeon Bay School District,"60 Willow Drive, Sturgeon Bay, WI 54235",Sturgeon Bay,Technical College,51.8,9842.0,108780.0,Eland Electric,9/1/21 0:00,44.82251111,-87.384253,
+172,172,S023,C,2 Chippewa Valley Technical College,"Energy Education Center CVTC, 4000 Campus Road, Eau Claire WI 54703",Eau Claire,Technical College,80.0,26573.4,168000.0,Next Step Energy,4/1/21 0:00,44.83812778,-91.552797,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S023-CVTC-solar-installation-2021.jpg
+173,173,S024,C,6 Cashton School District,"436 Front St, Cashton, WI 54619",Cashton,School,61.0,11669.8,128100.0,Olson Solar Energy,8/1/21 0:00,43.73896389,-90.783444,
+174,174,S025,C,6 Madison College - Truax Fitness Center,1701 Wright St. Madison WI 53704,Madison,Technical College,72.6,18981.0,152460.0,Arch Electric,8/1/21 0:00,43.12179167,-89.329653,
+175,175,S026,C,2 Lakeshore Technical College,"1290 North Avenue Cleveland, WI 53015",Cleveland,Technical College,20.72,3936.8,43512.0,Arch Electric,9/1/21 0:00,43.92388889,-87.752678,
+176,176,S027,C,7  Elkhorn School District,482 E. Geneva Street,Elkhorn,School,9.99,3796.2,20979.0,Adams Electric,10/1/21 0:00,42.6718,-88.531606,https://couillardsolarfoundation.org/wp-content/uploads/2023/10/S027-Elkhorn-SD-Greenhouse-solar.jpg
+177,177,S028,C,Owen-Withee High School,"832 W 3rd St, Owen, WI 54460",Owen,School,115.4,158515.0,158515.0,Next Step Energy ,10/1/22 0:00,44.94969722,-90.579431,
+178,178,S029,C,Reedsburg - Pineview El.,"1121 8th Street, Reedsburg, WI 53959",Reedsburg,School,33.8,15219.0,70980.0,All Sky Energies,9/1/22 0:00,43.54050278,-89.992458,
+179,179,S031,C,Northland Pines - St Germain Elementary ,"8234 W STH 70, St Germain, WI 54558",St. Germain,School,70.0,15819.75,147000.0,Carlson Electric,7/1/22 0:00,45.91286389,-89.498425,
+180,180,S035,C,West Salem SD - West Salem Middle School,"440 East Ave, West Salem, WI 54669",West Salem,School,128.16,28836.0,269136.0,"Solar Connections, Inc",9/1/22 0:00,43.90072778,-91.076556,
+181,181,S038,C,Baraboo HS,"1201 Draper St, Baraboo, WI 53913",Baraboo,School,150.0,25000.0,315000.0,Westphal Electric ,8/1/22 0:00,43.47716111,-89.755889,
