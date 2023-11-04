@@ -2,35 +2,40 @@ import folium
 import pandas as pd 
 from folium.plugins import Geocoder
 
-
+#Read csv file containing coordinates and other factors/features
 data = pd.read_csv('Couillard-Solar-Foundation/Dataset/data.csv').drop(['Unnamed: 0'],axis=1)
 
+#Intiate a default map 
 usa = folium.Map([43.7844,-88.7879],zoom_start=7)
 
+#Data preprocessing
 data = data[:-4]
 data["Marker_type"] = data["Type"].replace(["Education", "College", "Adult Education", "Library", "Technical College","School"], 'Education Institutes')
 data["Marker_type"] = data["Marker_type"].replace(["Public Safety", "Human Services"], 'Human Services')
 
 data.loc[~data["Marker_type"].isin(['Education Institutes', 'Human Services', 'Faith']), "Marker_type"] = 'Others'
 
+data['Installer'].fillna('Unknown', inplace=True)
 
-
+#Grouping the data points based on Marker type
 group_1 = folium.FeatureGroup("Education Institutes").add_to(usa)
 group_2 = folium.FeatureGroup("Faith").add_to(usa)
 group_3 = folium.FeatureGroup("Human Services").add_to(usa)
 group_4 = folium.FeatureGroup("Others").add_to(usa)
 
+#Function to mark the points on the map accordingly 
 def marker(row,icon_param,group):
     popup_html = f'<h5>{row["Recipient"]}</h5>' + \
                  f'<p>({row["Type"]})</p>' + \
                  f'<b>Project Grant: ${row["Value of grant"]:,}</b><br>' + \
-                 f'<b>Array Size: {row["Size of Array (in kW)"]}</b>'
-    
+                 f'<b>Array Size: {row["Size of Array (in kW)"]} kW</b>'
+
+    #If  the point have Installer
     if row['Installer'] != 'Unknown':
         popup_html += f'<br><b>Installer: {row["Installer"]}</b>'
-    
+    #If the point has an image
     if(not pd.isnull(row["Image URL"])):
-        popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo" width=100 height=100 ></center>'
+        popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo" ></center>' 
 
     test = folium.Html(popup_html, script=True)
     popup = folium.Popup(test, max_width=2650)
@@ -41,26 +46,18 @@ def marker(row,icon_param,group):
         icon=folium.Icon(**icon_param)
     ).add_to(group)
 
-
-data['Installer'].fillna('Unknown', inplace=True)
-
+#Creating dictionary for marker_type
 marker_types = {
-    'Education Institutes': {'color': 'red', 'icon': 'university', 'prefix': 'fa'},
-    'Faith': {'color': 'blue', 'icon': 'church', 'prefix': 'fa'},
-    'Human Services': {'color': 'green', 'icon': 'building', 'prefix': 'fa'},
-    'Others': {'color': 'purple', 'icon': 'flag', 'prefix': 'fa'}
+    'Education Institutes': [{'color': 'red', 'icon': 'university', 'prefix': 'fa'},group_1],
+    'Faith': [{'color': 'blue', 'icon': 'church', 'prefix': 'fa'},group_2],
+    'Human Services': [{'color': 'green', 'icon': 'building', 'prefix': 'fa'},group_3],
+    'Others': [{'color': 'purple', 'icon': 'flag', 'prefix': 'fa'},group_4]
 }
 
-group = {
-    'Education Institutes': group_1,
-    'Faith': group_2,
-    'Human Services': group_3,
-    'Others': group_4
-}
 
 for marker_type, icon_params in marker_types.items():
     for idx, row in data[data['Marker_type'] == marker_type].iterrows():
-        marker(row, icon_params,group[marker_type])
+        marker(row, icon_params[0],icon_params[1])
 
 folium.LayerControl().add_to(usa)
 Geocoder().add_to(usa)
