@@ -1,9 +1,6 @@
 #%%
 import numpy as np
 import pandas as pd
-import geopy
-from geopy.geocoders import Nominatim
-
 
 #%%
 """ Function to convert site address into coordinates of latitude and longitude 
@@ -55,6 +52,8 @@ def convert_address_to_coords(original_file_name):
             lats.append(latitude)
             longs.append(longitude)
         else:
+            lats.append(np.nan)
+            longs.append(np.nan)
             errorcount_geoapify+=1
             print(f"Request failed with status code {response.status_code} for address {i}")
             incomplete_address_flag.append("TRUE")         
@@ -81,6 +80,6 @@ for i in range(len(google_earth_pro)):
     if(abs(np.round(google_earth_pro["Latitude"].iloc[i],5) - np.round(geoapify_coords["Latitude"].iloc[i],5))>0.5):
         error_count_in_verification+=1
         print(google_earth_pro["Site Address"].iloc[i])
-print(error_count_in_verification)    
-    
+print("error in difference between latitude and longitudes between GEP and Geoapify=",error_count_in_verification)    
+
 # %%
