@@ -39,7 +39,7 @@ def marker(row,icon_param,group):
         popup_html += '<a style="font-weight:bold" href='+ row["link"] +'> pdf link </a>'
     #If the point has an image
     if(not pd.isnull(row["Image URL"])):
-        popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo" height="250" width="400"></center>' 
+        popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo"  height="250" width="400"></center>' 
 
     test = folium.Html(popup_html, script=True)
     popup = folium.Popup(test, max_width=2650)
@@ -65,7 +65,7 @@ for marker_type, icon_params in marker_types.items():
 
 folium.LayerControl().add_to(usa)
 Geocoder().add_to(usa)
-usa.save('Mapping Work/Sample Maps/usa.html')
+usa.save('dev/usa2.html')
 
 
 
