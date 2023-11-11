@@ -8,6 +8,7 @@ data = pd.read_csv('Couillard-Solar-Foundation/Dataset/data.csv').drop(['Unnamed
 #Intiate a default map 
 usa = folium.Map([43.7844,-88.7879],zoom_start=7)
 
+
 #Data preprocessing
 data = data[:-4]
 data["Marker_type"] = data["Type"].replace(["Education", "College", "Adult Education", "Library", "Technical College","School"], 'Education Institutes')
@@ -18,10 +19,10 @@ data.loc[~data["Marker_type"].isin(['Education Institutes', 'Human Services', 'F
 data['Installer'].fillna('Unknown', inplace=True)
 
 #Grouping the data points based on Marker type
-group_1 = folium.FeatureGroup("Education Institutes").add_to(usa)
-group_2 = folium.FeatureGroup("Faith").add_to(usa)
-group_3 = folium.FeatureGroup("Human Services").add_to(usa)
-group_4 = folium.FeatureGroup("Others").add_to(usa)
+group_1 = folium.FeatureGroup(name=f'''<span style="color:red;"><i class="fa fa-university"></i> Education Institutes</span>''',overlay=True,control=True).add_to(usa)
+group_2 = folium.FeatureGroup(name=f'''<span style="color:blue;"><i class="fa fa-church"></i> Faith</span>''',overlay=True,control=True).add_to(usa)
+group_3 = folium.FeatureGroup(name=f'''<span style="color:green;"><i class="fa fa-building"></i> Human Services</span>''',overlay=True,control=True).add_to(usa)
+group_4 = folium.FeatureGroup(name=f'''<span style="color:purple;"><i class="fa fa-flag"></i> Others</span>''',overlay=True,control=True).add_to(usa)
 
 #Function to mark the points on the map accordingly 
 def marker(row,icon_param,group):
@@ -32,7 +33,10 @@ def marker(row,icon_param,group):
 
     #If  the point have Installer
     if row['Installer'] != 'Unknown':
-        popup_html += f'<br><b>Installer: {row["Installer"]}</b>'
+        popup_html += f'<br><b>Installer: {row["Installer"]}</b><br>'
+    #If there is a link 
+    if(not pd.isnull(row["link"])):
+        popup_html += '<a style="font-weight:bold" href='+ row["link"] +'> pdf link </a>'
     #If the point has an image
     if(not pd.isnull(row["Image URL"])):
         popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo" ></center>' 
