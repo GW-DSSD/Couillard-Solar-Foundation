@@ -3,7 +3,7 @@ import pandas as pd
 from folium.plugins import Geocoder
 
 #Read csv file containing coordinates and other factors/features
-data = pd.read_csv('Dataset/data.csv').drop(['Unnamed: 0'],axis=1)
+data = pd.read_csv('Dataset/multi_image_data.csv').drop(['Unnamed: 0'],axis=1)
 
 #Intiate a default map 
 usa = folium.Map([43.7844,-88.7879],zoom_start=7)
@@ -23,6 +23,7 @@ group_1 = folium.FeatureGroup(name=f'''<span style="color:red;"><i class="fa fa-
 group_2 = folium.FeatureGroup(name=f'''<span style="color:blue;"><i class="fa fa-church"></i> Faith</span>''',overlay=True,control=True).add_to(usa)
 group_3 = folium.FeatureGroup(name=f'''<span style="color:green;"><i class="fa fa-building"></i> Human Services</span>''',overlay=True,control=True).add_to(usa)
 group_4 = folium.FeatureGroup(name=f'''<span style="color:purple;"><i class="fa fa-flag"></i> Others</span>''',overlay=True,control=True).add_to(usa)
+group_5 = folium.FeatureGroup(name='''<style> #gallerywrapper { width:640px; height:450px; margin:0 auto; position:relative; font-family:verdana, arial, sans-serif; } #gallerywrapper #gallery { position:absolute; left:0; top:0; height:450px; width:640px; overflow:hidden; text-align:center; } #gallerywrapper #gallery div { width:640px; height:900px; padding-top:10px; position:relative; } #gallerywrapper #gallery div img { clear:both; display:block; margin:0 auto; border:0; } #gallerywrapper #gallery div h3 { padding:10px 0 0 0; margin:0; font-size:18px; } #gallerywrapper #gallery div p { padding:5px 0; margin:0; font-size:12px; line-height:18px; } #gallery .previous{ display:inline; float:left; margin-left:80px; text-decoration:none; } #gallery .next{ display:inline; float:right; margin-right:80px; text-decoration:none; } </style>''',overlay=True,control=True).add_to(usa)
 
 #Function to mark the points on the map accordingly 
 def marker(row,icon_param,group):
@@ -39,7 +40,16 @@ def marker(row,icon_param,group):
         popup_html += '<a style="font-weight:bold" href='+ row["link"] +'> pdf link </a>'
     #If the point has an image
     if(not pd.isnull(row["Image URL"])):
-        popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo"  height="250" width="400"></center>' 
+        img_list = eval(row["Image URL"])
+        popup_html += '<div id="gallerywrapper"><div id="gallery">'
+        for i in range(len(img_list)):
+            current_pic = i
+            next_pic = i+1 if i != len(img_list)-1 else 0
+            prev_pic = i-1 if i != 0 else len(img_list)-1
+            popup_html += f'<div id="pic{current_pic}"><img src="{img_list[current_pic]}" height="350" width="500" alt="Image {current_pic}"><a class="previous" href="#pic{prev_pic}">&lt;</a><a class="next" href="#pic{next_pic}">&gt;</a></div>'
+        popup_html += '</div></div>'
+
+        # popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo"  height="250" width="400"></center>' 
 
     test = folium.Html(popup_html, script=True)
     popup = folium.Popup(test, max_width=2650)
@@ -65,8 +75,7 @@ for marker_type, icon_params in marker_types.items():
 
 folium.LayerControl().add_to(usa)
 Geocoder().add_to(usa)
-usa.save('dev/usa2.html')
-
+usa.save('dev/usa_multi_img.html')
 
 
 
