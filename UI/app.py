@@ -13,7 +13,11 @@ def main():
     uploaded_file = st.file_uploader("Upload Excel file", type=['xlsx'])
     
     if uploaded_file is not None:
-        df = address_conversion.convert_address_to_coords(uploaded_file)
+        def update_progress(progress):
+            progress_bar.progress(progress)
+        progress_bar = st.progress(0)
+        df = address_conversion.convert_address_to_coords(uploaded_file,progress_callback=update_progress)
+        progress_bar.progress(100)
         st.write("Coordinates DataFrame:", df)
         mapping.main(df)
 

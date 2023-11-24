@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+import time
 
-def convert_address_to_coords(original_file_name):
+def convert_address_to_coords(original_file_name,progress_callback=None):
     df = pd.read_excel(original_file_name,header=0)
 
     addresses_converted =0
@@ -17,7 +18,7 @@ def convert_address_to_coords(original_file_name):
     incomplete_address_flag=list()
     # Replace YOUR_API_KEY with your actual API key. Sign up and get an API key on https://www.geoapify.com/ 
     API_KEY = "d7962919004849b8828dd7ab4ddb2bfe"
-    for i in df["Site Address"]:
+    for row, i in enumerate(df["Site Address"]):
         total_addresses+=1
     # Define the address to geocode
         address = i
@@ -47,7 +48,10 @@ def convert_address_to_coords(original_file_name):
                 longitude = result["geometry"]["coordinates"][0]
 
                 print(f"Latitude: {latitude}, Longitude: {longitude}")
-                
+                time.sleep(0.1)
+                progress = int((row + 1) / len(df) * 100)
+                if progress_callback:
+                    progress_callback(progress)
                 lats.append(latitude)
                 longs.append(longitude)
                 addresses_converted+=1
