@@ -177,7 +177,7 @@ def main(data):
         except Exception as e:
             pass
         # If the point has an image
-        if not pd.isnull(row["Image URL"]):
+        if (len(row["Image URL"]) > 0):     #pd.isnull(row["Image URL"])
             popup_html += '<center><img src=' + row["Image URL"] + ' alt="logo" height="250" width="400"></center>'
 
         test = folium.Html(popup_html, script=True)
