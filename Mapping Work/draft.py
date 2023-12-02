@@ -3,7 +3,7 @@
 # from folium.plugins import Geocoder
 
 # #Read csv file containing coordinates and other factors/features
-# data = pd.read_csv('Couillard-Solar-Foundation/Dataset/data.csv').drop(['Unnamed: 0'],axis=1)
+# data = pd.read_csv('Dataset/data.csv').drop(['Unnamed: 0'],axis=1)
 
 # #Intiate a default map 
 # usa = folium.Map([44.5, -89.5],zoom_start=7.4)
@@ -70,7 +70,7 @@
 #     'fillOpacity' : 0.2
 
 # }
-# folium.GeoJson("Couillard-Solar-Foundation/Mapping Work/us-state-boundaries_1.geojson",
+# folium.GeoJson("Mapping Work/us-state-boundaries_1.geojson",
 #                name="Country",
 #                style_function=lambda x:borderStyle).add_to(usa)
 # bordersStyle = {
@@ -81,13 +81,13 @@
 
 # }
 
-# folium.GeoJson("Couillard-Solar-Foundation/Mapping Work/us-state-boundaries.geojson",
+# folium.GeoJson("Mapping Work/us-state-boundaries.geojson",
 #                name="Wisconsin",
 #                style_function=lambda x:bordersStyle).add_to(usa)
 
 # folium.LayerControl().add_to(usa)
 # Geocoder().add_to(usa)
-# usa.save('Couillard-Solar-Foundation/Mapping Work/Sample Maps/usa.html')
+# usa.save('Mapping Work/Sample Maps/usa.html')
 
 import folium
 import pandas as pd
@@ -96,7 +96,7 @@ import streamlit as st
 
 def main():
     # Read csv file containing coordinates and other factors/features
-    data = pd.read_csv('Couillard-Solar-Foundation/Dataset/data.csv').drop(['Unnamed: 0'], axis=1)
+    data = pd.read_csv('Dataset/data.csv').drop(['Unnamed: 0'], axis=1)
 
     # Initiate a default map
     usa = folium.Map([44.5, -89.5], zoom_start=7.4)
@@ -165,7 +165,7 @@ def main():
         'fillcolor': 'black',
         'fillOpacity': 0.2
     }
-    folium.GeoJson("Couillard-Solar-Foundation/Mapping Work/us-state-boundaries_1.geojson",
+    folium.GeoJson("Mapping Work/us-state-boundaries_1.geojson",
                    name="Country",
                    style_function=lambda x: border_style).add_to(usa)
 
@@ -175,7 +175,7 @@ def main():
         'fillcolor': 'white',
         'fillOpacity': 0
     }
-    folium.GeoJson("Couillard-Solar-Foundation/Mapping Work/us-state-boundaries.geojson",
+    folium.GeoJson("Mapping Work/us-state-boundaries.geojson",
                    name="Wisconsin",
                    style_function=lambda x: borders_style).add_to(usa)
 
@@ -183,7 +183,7 @@ def main():
     Geocoder().add_to(usa)
 
     # Save the map as an HTML file
-    usa.save('Couillard-Solar-Foundation/Mapping Work/Sample Maps/usa.html')
+    usa.save('Mapping Work/Sample Maps/usa.html')
 
     # Display the map using Streamlit
     st.markdown('<h1>USA Solar Projects Map</h1>', unsafe_allow_html=True)
